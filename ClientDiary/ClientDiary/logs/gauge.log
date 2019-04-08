@@ -524,3 +524,68 @@ Total time taken: 28.198s
 14:39:10.950 Api Request Received: messageType:SpecsRequest messageId:1554714550949379400 specsRequest:<> 
 14:39:10.952 Sending API response: messageType:SpecsResponse messageId:1554714550949379400 specsResponse:<details:<spec:<specHeading:"Mobile Feature" items:<itemType:Comment comment:<text:"\n" > > items:<itemType:Scenario scenario:<scenarioHeading:"Mobile Pass Scenario" scenarioItems:<step:<actualText:"Open Dialer" parsedText:"Open Dialer" fragments:<text:"Open Dialer" > > > scenarioItems:<step:<actualText:"Enter mobile number" parsedText:"Enter mobile number" fragments:<text:"Enter mobile number" > > > scenarioItems:<step:<actualText:"Verify Call" parsedText:"Verify Call" fragments:<text:"Verify Call" > > > span:<start:3 end:6 > > > fileName:"E:\\Studio60\\Automation\\Projects\\ClientDiary\\ClientDiary\\specs\\Demo\\mobile.spec" > > > 
 14:39:10.953 Closing connection [127.0.0.1:50501] cause: EOF
+15:04:43.714 Plugin java is already installed.
+15:04:43.733 Plugin html-report is already installed.
+15:04:45.336 Checking updates...
+15:04:50.765 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+15:04:50.765 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+15:04:50.772 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify Call" > 
+15:04:50.772 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify Call" parameterizedStepValue:"Verify Call" > > 
+15:04:50.773 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Dialer" > 
+15:04:50.773 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Dialer" parameterizedStepValue:"Open Dialer" > > 
+15:05:19.390 Plugin [Html Report] with pid [20756] has exited
+15:05:19.418 Closing connection [127.0.0.1:50845] cause: read tcp 127.0.0.1:50838->127.0.0.1:50845: wsarecv: An existing connection was forcibly closed by the remote host.
+15:05:19.703 Specifications:	1 executed	1 passed	0 failed	0 skipped
+15:05:19.703 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+15:05:19.703 
+Total time taken: 25.614s
+15:05:19.709 Updates are available. Run `gauge update -c` for more info.
+15:15:44.983 Plugin java is already installed.
+15:15:44.985 Plugin html-report is already installed.
+15:15:46.169 Checking updates...
+15:15:46.788 Runner connection error: Runner with pid 22720 quit unexpectedly(exit status 1).
+15:15:46.788 Error while killing runner: invalid argument
+15:15:46.792 Failed to start gauge API: Runner with pid 22720 quit unexpectedly(exit status 1).
+15:16:04.395 Plugin html-report is already installed.
+15:16:04.399 Plugin java is already installed.
+15:16:05.661 Checking updates...
+15:16:05.963 Runner connection error: Runner with pid 24164 quit unexpectedly(exit status 1).
+15:16:05.963 Error while killing runner: invalid argument
+15:16:05.968 Failed to start gauge API: Runner with pid 24164 quit unexpectedly(exit status 1).
+15:19:41.810 Plugin java is already installed.
+15:19:41.814 Plugin html-report is already installed.
+15:19:43.430 Checking updates...
+15:19:44.260 Runner connection error: Runner with pid 15320 quit unexpectedly(exit status 1).
+15:19:44.261 Error while killing runner: invalid argument
+15:19:44.272 Failed to start gauge API: Runner with pid 15320 quit unexpectedly(exit status 1).
+15:27:49.282 Plugin java is already installed.
+15:27:49.284 Plugin html-report is already installed.
+15:27:49.964 Runner connection error: Runner with pid 24384 quit unexpectedly(exit status 1).
+15:27:49.964 Error while killing runner: invalid argument
+15:27:49.967 Failed to start gauge API: Runner with pid 24384 quit unexpectedly(exit status 1).
+15:29:25.349 Plugin html-report is already installed.
+15:29:25.353 Plugin java is already installed.
+15:29:26.122 Runner connection error: Runner with pid 372 quit unexpectedly(exit status 1).
+15:29:26.122 Error while killing runner: invalid argument
+15:29:26.127 Failed to start gauge API: Runner with pid 372 quit unexpectedly(exit status 1).
+15:41:17.147 Plugin java is already installed.
+15:41:17.168 Plugin html-report is already installed.
+15:41:18.124 Runner connection error: Runner with pid 24204 quit unexpectedly(exit status 1).
+15:41:18.124 Error while killing runner: invalid argument
+15:41:18.127 Failed to start gauge API: Runner with pid 24204 quit unexpectedly(exit status 1).
+15:47:08.828 Plugin java is already installed.
+15:47:08.841 Plugin html-report is already installed.
+15:47:10.222 Checking updates...
+15:47:16.135 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+15:47:16.135 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+15:47:16.144 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify Call" > 
+15:47:16.144 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify Call" parameterizedStepValue:"Verify Call" > > 
+15:47:16.145 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Dialer" > 
+15:47:16.145 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Dialer" parameterizedStepValue:"Open Dialer" > > 
+15:47:45.972 Plugin [Html Report] with pid [25296] has exited
+15:47:45.980 Closing connection [127.0.0.1:52006] cause: read tcp 127.0.0.1:52000->127.0.0.1:52006: wsarecv: An existing connection was forcibly closed by the remote host.
+15:47:46.173 Specifications:	1 executed	1 passed	0 failed	0 skipped
+15:47:46.173 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+15:47:46.173 
+Total time taken: 27.027s
+15:47:46.175 Updates are available. Run `gauge update -c` for more info.
