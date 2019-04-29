@@ -1,0 +1,330 @@
+{
+  "LayoutPage": {
+    "LoginLinkText": "Login"
+  },
+
+  "HomePage": {
+    "PageTitle": "Radio Rentals | rr-uat.s60.com.au - NOT FOR COMMERCIAL USE"
+  },
+
+  "Location": {
+    "Name": "Adelaide"
+  },
+
+  "LoginPage": {
+    "HeaderTitle": "Login",
+    "ValidEmailAddress": "kanchana.liyanagamage@s60.com.au",
+    "ValidEmailAddressIncorrectFormat": "kanchana1.liyanagamage@s60.com.au",
+    "InvalidEmailAddress": "test.liyanagamage@s60.com.au",
+    "ValidPassword": "Pass4now!",
+    "InvalidPassword": "1Pass4now!",
+    "WrongUsernameOrPasswordMessageText": "You have entered wrong username or password",
+    "RequiredFieldValidationMessageText": "Required Field"
+  },
+
+  "RegisterAccountPage": {
+    "Title": "Mr",
+    "FirstName": "John",
+    "LastName": "Abraham",
+    "Date": "10",
+    "Month": "February",
+    "Year": "1988",
+    "NewCustomer": {
+      "EmailAddress1": "newcustomer55@gmail.com",
+      "EmailAddress2": "newcustomer56@gmail.com"
+    },
+    "ExistingEmail": "newcustomer1@gmail.com",
+    "IncorrectFormatEmail": "newcustomergmail.com",
+    "MobileNumber": "0488855589",
+    "IncorrectMobileNumber": "0945798764",
+    "VipCardNumber": "1234",
+    "InccorrectVipNumber": "123number",
+    "AccountNumber": "1234567890",
+    "IncorrectAccountNumber": "2342423",
+    "MobileNumberTooltipMessage": "Please enter a valid phone number",
+    "VipCardNumberTooltipMessage": "Please enter your VIP card number",
+    "AccountNumberToolTipMessage": "Please enter your account number",
+    "RequiredFieldValidationMessage": "Required Field",
+    "AccountNumberValidationTextMessage": "Please enter at least 10 characters.",
+    "FirstNameWitDigitsAndSpecialCharacters": "Alex12@#",
+    "LastNameWitDigitsAndSpecialCharacters": "John12@#",
+    "InvalidBirthDate": {
+      "Month": "September",
+      "Date": "31"
+    },
+    "FutureDate": "2025",
+    "PastYear": "1800",
+    "CharacterValidationTextMessage": "Only allow alphabet characters. Please remove the others",
+    "DateOfBirthDayValidationTextMessage": "Please select a valid date.",
+    "DateOfBirthYearValidationTextMessage": "Date must be in the past.",
+    "PastYearValidationTextMessage": "Must be in the last 100 years.",
+    "ExistingEmailAddressValidationTextMessage": "This email is already used",
+    "IncorrectFormatEmailAddressValidationTextMessage": "Please enter a valid email address.",
+    "IncorrectFormatMobileNumberValidationTextMessage": "Please enter a valid Australian Area Code.",
+    "NumericFieldValidationTextMessage": "Please only enter numeric characters."
+  },
+
+  "ThankYouPage": {
+    "WelcomeMessageText": "Thank you"
+  },
+
+  "BeforeYouApplyPage": {
+    "PageTitle": "Before You Apply | rr-uat.s60.com.au - NOT FOR COMMERCIAL USE",
+    "HeaderTitle": "Online Rental Application",
+    "FormTitle": "Applying is easy"
+
+  },
+
+  "PersonalDetailsApplyFromPage": {
+    "Store": "Berri Electrical and Furniture, Berri"
+  },
+
+  "PersonalDetailsContactDetailsPage": {
+    "Title": "Mr",
+    "FirstName": "John",
+    "MiddleName": "Doe",
+    "LastName": "Abraham",
+    "Email": "john@gmail.com",
+    "ConfirmEmail": "john@gmail.com",
+    "AreadCode": "08",
+    "HomePhoneNumber": "78798798",
+    "MobilePhone": "0497979789",
+    "PreferredContactTime": "Anytime"
+  },
+
+  "PersonalDetailsInrentAccountPage": {
+    "Number": "23123213123"
+  },
+
+  "PersonalDetailsInformationPage": {
+    "Gender": "Male",
+    "Date": "10",
+    "Month": "February",
+    "Year": "1988",
+    "ItentificationType": "Australian Drivers License",
+    "IdentificationNumber": "443434",
+    "ItentificationExpiryDate": "10",
+    "ItentificationExpiryMonth": "February",
+    "ItentificationExpiryYear": "2022",
+    "DoesYourIdShowWhereYouAreCurrentlyLiving": {
+      "Yes": "Yes",
+      "No": "No"
+    },
+    "MartialStatus": {
+      "Single": "Single"
+    },
+    "HaveYouEverChangedYourNameViaMarriageDeepPollOrViaAnyOtherMeans": {
+      "Yes": "Yes",
+      "No": "No"
+    }
+  },
+
+  "ResidentialDetailsStatusPage": {
+    "ResidentialStatus": {
+      "Renting": "Renting",
+      "FullyOwnHomeNoMortgage": "Fully own home - no mortgage"
+    },
+    "LandlordAgentsName": "Harper",
+    "LandlordAgentsPhone": "0823434234",
+    "LandlordAmount": "300",
+    "LandlordFrequency": {
+      "PerWeek": "per week",
+      "PerFortnight": "per fortnight"
+    }
+  },
+
+  "ResidentialDetailsYourAddressPage": {
+    "PropertyOrBuildingName": "S60 Building",
+    "UnitNo": "1111",
+    "HouseNo": "54",
+    "StreetName": "APPLE ST",
+    "StreetType": "Court",
+    "Suburb": "Adelaide",
+    "State": "Australia",
+    "PostCode": "5000",
+    "LengthOfTimeAtAddress": {
+      "Years": "02",
+      "Months": "10"
+    },
+    "YouEntered": "You entered"
+  },
+
+  "OccupationPage": {
+    "YourCurrentOccupation": "Employed",
+    "EmployementType": "Full Time",
+    "YourJobTitle": "Software Engineer",
+    "WorkContactPhoneCode": "08",
+    "WorkContactPhoneNumber": "45345535",
+    "EmployersBusinessName": "Radio Rentals",
+    "UnitNo": "12",
+    "StreetNo": "56",
+    "StreetName": "First Street",
+    "StreetType": "Court",
+    "Suburb": "Aarons Pass",
+    "State": "New South Wales",
+    "PostCode": "2850",
+    "TimeAtCurrentEmployer": {
+      "Years": "02",
+      "Months": "10"
+    }
+  },
+
+  "IncomeInformationPage": {
+    "Wages": "1000",
+    "GovernmentPayments": "150",
+    "IncomeFromOtherSources": "50",
+    "Frequency": "per week"
+  },
+
+  "LivingExpensesPage": {
+    "DependentChildren": "None",
+    "DoYouRunAVehicle": "No, I do not run a vehicle",
+    "WaterRates": "10",
+    "Utilities": "5",
+    "PhoneAndInternet": "25",
+    "Groceries": "15",
+    "MedicalAndPharmaceutical": "2",
+    "OtherExpenses": "3",
+    "ExpenseFrequency": "monthly"
+  },
+
+  "RefereeDetailsPage": {
+    "FirstReference": {
+      "FirstName": "James",
+      "Surname": "Frank",
+      "Relationship": "Friend",
+      "PhoneCode": "08",
+      "PhoneNumber": "32232323",
+      "MobileNumber": "0432322343",
+      "UnitNo": "12",
+      "StreetNo": "56",
+      "StreetName": "First Street",
+      "StreetType": "Court",
+      "Suburb": "Aarons Pass",
+      "State": "New South Wales",
+      "PostCode": "2850"
+    }
+  },
+
+  "CategoryLandingPage": {
+    "PageHeader": "Phone",
+    "PageTitle": "Phones | rr-uat.s60.com.au - NOT FOR COMMERCIAL USE",
+    "SubHeaderTitle": "UNLOCKED MOBILE PHONES"
+  },
+
+  "ProductDetailsPage": {
+    "PageTitle": "IPHONE7128GBROSE Apple iPhone 7 128GB ROSE GOLD | rr-uat.s60.com.au - NOT FOR COMMERCIAL USE",
+    "Location": "5009 Allenby Gardens"
+  },
+
+  "MiniCartPage": {
+    "WithoutItem": "0 items are added to your cart",
+    "WithItem": "1 items are added to your cart"
+  },
+
+  "ShoppingCartByOrRentPage": {
+    "Url": "/cart",
+    "PageTitle": "Shopping Cart | rr-uat.s60.com.au - NOT FOR COMMERCIAL USE",
+    "VirtualProductInstallation": "1YR 24/7 PHONE SUPPORT",
+    "VirtualProductInstallationPrice": "$130.00",
+    "DeliveryOption": "Delivery"
+  },
+
+  "Customer": {
+    "FirstName": "Kanchana",
+    "LastName": "Liyanagamage",
+    "EmailAddress": "kanchana.liyanagamage@s60.com.au"
+  },
+
+  "Products": {
+    "InStock": {
+      "Id": "3409485",
+      "Title": "Vive Virtual Reality Kit",
+      "Url": "/phones-42af7fbf/smart-watches--fitness-bands/3409485-htc-vive-virtual-reality-kit-/"
+    },
+    "VirtualProduct": {
+      "Url": "/televisions-c9016e78/ledlcd-tvs/qa75q9fam-samsung-75-q9-uhd-qled-tv-/"
+    },
+    "SecondaryItems": {
+      "Url": "/televisions-c9016e78/tv-accessories/wall-brackets/cafp5fm-crest-full-motion-wall-mount-/"
+    },
+    "Compare": {
+      "Url1": "/phones-42af7fbf/unlocked-mobile-phones/1091002700-samsung-galaxy-j1-mini-black-/",
+      "Url2": "/phones-42af7fbf/unlocked-mobile-phones/iphone7plus256gbblac-apple-iphone-7-plus-256gb-black-/"
+    }
+
+  },
+
+  "ProfilePage": {
+    "EditProfile": {
+      "FirstName": "TestJohn",
+      "LastName": "TestFrank",
+      "MobileNumber": "0442432556"
+    }
+  },
+
+  "ClaimSubmitPage": {
+    "StoreValue": "Online Store",
+    "FirstName": "Mark AB",
+    "StreetAddress": "TestAddress",
+    "LastName": "Jemmy",
+    "Suburb": "HAASTS BLUFF",
+    "PhoneNumber": "0855652342",
+    "Email": "john@gmail.com",
+    "ConfirmEmail": "john@gmail.com",
+    "RetailValue": "500",
+    "TransactionDate":"22-04-2018",
+    "AccountNumber": "7890876667",
+    "AccountName": "john",
+    "BSBNumber": "456456",
+    "BankName": "Australia National Bank",
+    "CustomerAccountNumber": "789456125"
+  },
+
+  "ClaimAndAnOfferPage": {
+    "RedemptionCode": "Reuseablecode1"
+  },
+
+  "ForgotYourPasswordPage": {
+    "HeaderTitle": "Forgot Password."
+  },
+
+  "StoreLocatorPage": {
+    "HeaderTitle": "Store Locator"
+  },
+
+  "CheckoutPage": {
+    "BillingDetails": {
+      "Address": "1st Cross Street",
+      "CityOrSuburb": "Aarons Pass",
+      "RegionOrState": "New South Wales",
+      "PostCode": "2850"
+    },
+    "PaymentDetails": {
+      "CardHolderName": "Robert Frank",
+      "CardNumber": "4444333322221111",
+      "ExpiryDate": "12",
+      "ExpiryYear": "18",
+      "SecurityCode": "111"
+    },
+    "StreetAddress": "TestAddress",
+    "DeliveryOptionValue": "Delivery",
+
+    "Address": "TestAddress",
+    "PhoneNumber": "0423232323"
+  },
+
+  "NavigationMenu": {
+    "MainMenuItem": "Audio & Visual",
+    "SubMenuItem": "Media Players",
+    "BottomMenu": "PVR, DVR & HDD Recorders",
+    "TopLevelNavigationMenuHeaderTitle": "Audio & Visual",
+    "SubLevelNavigationMenuHeaderTitle": "Media Players",
+    "BottomLevelNavigationMenuHeaderTitle": "PVR, DVR & HDD Recorders"
+  },
+
+  "SearchItemPage": {
+    "Item": "LCD TV",
+    "SearchResult": "LCD TV"
+  }
+}

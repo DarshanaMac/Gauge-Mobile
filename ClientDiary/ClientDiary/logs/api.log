@@ -1552,3 +1552,542 @@
 15:46:43.428 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
 15:46:43.525 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify Call" > 
 15:46:43.530 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify Call" parameterizedStepValue:"Verify Call" > > 
+16:37:16.217 Watching directory: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs
+16:37:16.218 Found 1 files
+16:37:16.219 Watching directory: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo
+16:37:16.220 Found 1 files
+16:37:16.226 Initializing concepts cache with 0 concepts
+16:37:16.228 Initializing specs cache with 1 specs
+16:37:16.228 Adding specs from E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+16:37:16.228 Initializing steps cache with 1 steps
+16:37:16.228 Gauge daemon initialized and listening on port: 53636
+20:09:37.501 Watching directory: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs
+20:09:37.509 Found 1 files
+20:09:37.520 Watching directory: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo
+20:09:37.522 Found 1 files
+20:09:37.553 Unable to send analytics data, Post https://www.google-analytics.com/collect: dial tcp: lookup www.google-analytics.com: no such host
+20:09:37.578 Initializing concepts cache with 0 concepts
+20:09:37.591 Initializing specs cache with 1 specs
+20:09:37.591 Adding specs from E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+20:09:37.591 Initializing steps cache with 1 steps
+20:09:37.591 Gauge daemon initialized and listening on port: 53979
+20:10:06.853 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Dialer" > 
+20:10:08.627 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Dialer" parameterizedStepValue:"Open Dialer" > > 
+20:10:09.137 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+20:10:09.137 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+20:10:09.660 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify Call" > 
+20:10:09.660 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify Call" parameterizedStepValue:"Verify Call" > > 
+20:37:37.569 Unable to send analytics data, Post https://www.google-analytics.com/collect: dial tcp: lookup www.google-analytics.com: no such host
+21:05:37.568 Unable to send analytics data, Post https://www.google-analytics.com/collect: dial tcp: lookup www.google-analytics.com: no such host
+21:33:37.565 Unable to send analytics data, Post https://www.google-analytics.com/collect: dial tcp: lookup www.google-analytics.com: no such host
+22:01:37.564 Unable to send analytics data, Post https://www.google-analytics.com/collect: dial tcp: lookup www.google-analytics.com: no such host
+22:31:34.295 Unable to send analytics data, Post https://www.google-analytics.com/collect: dial tcp: lookup www.google-analytics.com: no such host
+07:29:28.269 Watching directory: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs
+07:29:28.270 Found 1 files
+07:29:28.271 Watching directory: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo
+07:29:28.272 Found 1 files
+07:29:28.283 Initializing concepts cache with 0 concepts
+07:29:28.293 Initializing specs cache with 1 specs
+07:29:28.293 Adding specs from E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+07:29:28.293 Initializing steps cache with 1 steps
+07:29:28.293 Gauge daemon initialized and listening on port: 56299
+07:29:56.806 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Dialer" > 
+07:29:56.811 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Dialer" parameterizedStepValue:"Open Dialer" > > 
+07:29:59.261 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+07:29:59.262 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+07:29:59.263 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify Call" > 
+07:29:59.265 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify Call" parameterizedStepValue:"Verify Call" > > 
+16:30:14.242 Closing connection [127.0.0.1:56300] cause: read tcp 127.0.0.1:56299->127.0.0.1:56300: wsarecv: An existing connection was forcibly closed by the remote host.
+16:30:14.973 Killing Gauge daemon. Parent process with pid 18348 has terminated.
+08:09:52.426 Watching directory: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs
+08:09:52.430 Found 1 files
+08:09:52.432 Watching directory: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo
+08:09:52.432 Found 1 files
+08:09:52.522 Initializing concepts cache with 0 concepts
+08:09:52.531 Initializing specs cache with 1 specs
+08:09:52.531 Adding specs from E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+08:09:52.531 Initializing steps cache with 1 steps
+08:09:52.531 Gauge daemon initialized and listening on port: 50575
+08:10:30.150 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Dialer" > 
+08:10:30.178 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Dialer" parameterizedStepValue:"Open Dialer" > > 
+08:10:31.413 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify Call" > 
+08:10:31.413 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify Call" parameterizedStepValue:"Verify Call" > > 
+08:10:34.482 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+08:10:34.488 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+08:10:34.497 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+08:10:34.497 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+09:21:30.977 Watching directory: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs
+09:21:30.980 Found 1 files
+09:21:30.982 Watching directory: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo
+09:21:30.982 Found 1 files
+09:21:30.990 Initializing concepts cache with 0 concepts
+09:21:30.993 Initializing specs cache with 1 specs
+09:21:30.993 Adding specs from E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+09:21:30.993 Initializing steps cache with 1 steps
+09:21:30.993 Gauge daemon initialized and listening on port: 53916
+09:21:31.966 Unable to send analytics data, timed out
+09:49:32.968 Unable to send analytics data, timed out
+20:03:54.623 Watching directory: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs
+20:03:54.624 Unable to send analytics data, Post https://www.google-analytics.com/collect: dial tcp: lookup www.google-analytics.com: no such host
+20:03:54.627 Found 1 files
+20:03:54.628 Watching directory: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo
+20:03:54.630 Found 1 files
+20:03:54.648 Initializing concepts cache with 0 concepts
+20:03:54.675 Initializing specs cache with 1 specs
+20:03:54.675 Adding specs from E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+20:03:54.675 Initializing steps cache with 1 steps
+20:03:54.675 Gauge daemon initialized and listening on port: 49916
+11:03:13.863 Watching directory: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs
+11:03:13.868 Found 1 files
+11:03:13.870 Watching directory: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo
+11:03:13.871 Found 1 files
+11:03:13.885 Initializing concepts cache with 0 concepts
+11:03:13.889 Initializing specs cache with 1 specs
+11:03:13.889 Adding specs from E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+11:03:13.889 Initializing steps cache with 1 steps
+11:03:13.889 Gauge daemon initialized and listening on port: 53466
+12:28:40.911 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Dialer" > 
+12:28:40.918 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Dialer" parameterizedStepValue:"Open Dialer" > > 
+12:28:40.920 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify Call" > 
+12:28:40.920 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify Call" parameterizedStepValue:"Verify Call" > > 
+12:28:40.936 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+12:28:40.936 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+12:28:46.264 Spec file removed: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+12:28:46.265 Spec file added / modified: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+11:15:39.313 Watching directory: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs
+11:15:39.315 Found 1 files
+11:15:39.317 Watching directory: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo
+11:15:39.317 Found 1 files
+11:15:39.335 Initializing concepts cache with 0 concepts
+11:15:39.343 Initializing specs cache with 1 specs
+11:15:39.343 Adding specs from E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+11:15:39.343 Initializing steps cache with 1 steps
+11:15:39.343 Gauge daemon initialized and listening on port: 53710
+11:16:05.507 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Dialer" > 
+11:16:05.520 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Dialer" parameterizedStepValue:"Open Dialer" > > 
+11:16:07.578 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+11:16:07.578 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+11:16:07.581 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify Call" > 
+11:16:07.581 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify Call" parameterizedStepValue:"Verify Call" > > 
+12:10:39.040 Spec file removed: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+12:10:39.041 Spec file added / modified: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+12:10:41.160 Spec file removed: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+12:10:41.161 Spec file added / modified: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+12:39:40.882 Unable to send analytics data, timed out
+20:35:57.995 Watching directory: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs
+20:35:57.997 Found 1 files
+20:35:57.999 Watching directory: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo
+20:35:58.000 Found 1 files
+20:35:58.015 Initializing concepts cache with 0 concepts
+20:35:58.020 Initializing specs cache with 1 specs
+20:35:58.020 Adding specs from E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+20:35:58.020 Initializing steps cache with 1 steps
+20:35:58.020 Gauge daemon initialized and listening on port: 58761
+20:36:35.467 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Dialer" > 
+20:36:35.468 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Dialer" parameterizedStepValue:"Open Dialer" > > 
+20:36:35.664 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+20:36:35.664 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+20:36:35.722 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify Call" > 
+20:36:35.722 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify Call" parameterizedStepValue:"Verify Call" > > 
+08:03:51.594 Watching directory: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs
+08:03:51.597 Found 1 files
+08:03:51.598 Watching directory: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo
+08:03:51.599 Found 1 files
+08:03:51.613 Initializing concepts cache with 0 concepts
+08:03:51.624 Initializing specs cache with 1 specs
+08:03:51.624 Adding specs from E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+08:03:51.624 Initializing steps cache with 1 steps
+08:03:51.624 Gauge daemon initialized and listening on port: 53649
+08:04:21.386 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Dialer" > 
+08:04:21.407 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Dialer" parameterizedStepValue:"Open Dialer" > > 
+08:04:21.608 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+08:04:21.608 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+08:04:21.644 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify Call" > 
+08:04:21.644 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify Call" parameterizedStepValue:"Verify Call" > > 
+11:19:52.273 Unable to send analytics data, Post https://www.google-analytics.com/collect: dial tcp: lookup www.google-analytics.com: no such host
+16:27:52.265 Unable to send analytics data, Post https://www.google-analytics.com/collect: dial tcp: lookup www.google-analytics.com: no such host
+16:55:52.269 Unable to send analytics data, Post https://www.google-analytics.com/collect: dial tcp: lookup www.google-analytics.com: no such host
+18:19:53.265 Unable to send analytics data, timed out
+18:20:08.216 Unable to send analytics data, Post https://www.google-analytics.com/collect: net/http: TLS handshake timeout
+21:35:53.263 Unable to send analytics data, timed out
+11:05:50.572 Watching directory: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs
+11:05:50.575 Found 1 files
+11:05:50.577 Watching directory: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo
+11:05:50.577 Found 1 files
+11:05:50.587 Initializing concepts cache with 0 concepts
+11:05:50.592 Initializing specs cache with 1 specs
+11:05:50.592 Adding specs from E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+11:05:50.592 Initializing steps cache with 1 steps
+11:05:50.592 Gauge daemon initialized and listening on port: 59077
+11:33:52.087 Unable to send analytics data, timed out
+12:29:52.089 Unable to send analytics data, timed out
+12:57:52.087 Unable to send analytics data, timed out
+12:58:29.460 Unable to send analytics data, Post https://www.google-analytics.com/collect: read tcp 10.0.200.118:50894->216.58.200.110:443: wsarecv: An established connection was aborted by the software in your host machine.
+13:41:37.779 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify Call" > 
+13:41:37.780 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify Call" parameterizedStepValue:"Verify Call" > > 
+13:41:37.781 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+13:41:37.781 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+13:41:37.792 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Dialer" > 
+13:41:37.793 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Dialer" parameterizedStepValue:"Open Dialer" > > 
+16:39:41.069 Closing connection [127.0.0.1:59078] cause: read tcp 127.0.0.1:59077->127.0.0.1:59078: wsarecv: An existing connection was forcibly closed by the remote host.
+16:39:41.769 Killing Gauge daemon. Parent process with pid 24220 has terminated.
+07:42:06.100 Watching directory: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs
+07:42:06.102 Found 1 files
+07:42:06.102 Watching directory: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo
+07:42:06.102 Found 1 files
+07:42:06.115 Initializing concepts cache with 0 concepts
+07:42:06.117 Initializing specs cache with 1 specs
+07:42:06.118 Adding specs from E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+07:42:06.118 Initializing steps cache with 1 steps
+07:42:06.118 Gauge daemon initialized and listening on port: 54428
+07:42:26.734 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Dialer" > 
+07:42:26.748 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Dialer" parameterizedStepValue:"Open Dialer" > > 
+07:42:26.890 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+07:42:26.891 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+07:42:26.964 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify Call" > 
+07:42:26.964 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify Call" parameterizedStepValue:"Verify Call" > > 
+10:58:07.686 Unable to send analytics data, timed out
+10:58:18.000 Unable to send analytics data, Post https://www.google-analytics.com/collect: dial tcp: lookup www.google-analytics.com: no such host
+11:54:06.687 Unable to send analytics data, Post https://www.google-analytics.com/collect: dial tcp: lookup www.google-analytics.com: no such host
+12:50:10.377 Spec file removed: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+12:50:10.384 Spec file added / modified: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+14:14:07.685 Unable to send analytics data, timed out
+14:42:07.686 Unable to send analytics data, timed out
+15:10:07.685 Unable to send analytics data, timed out
+16:53:31.741 Closing connection [127.0.0.1:54429] cause: read tcp 127.0.0.1:54428->127.0.0.1:54429: wsarecv: An existing connection was forcibly closed by the remote host.
+16:53:32.096 Killing Gauge daemon. Parent process with pid 4416 has terminated.
+09:23:59.674 Watching directory: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs
+09:23:59.676 Found 1 files
+09:23:59.676 Watching directory: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo
+09:23:59.676 Found 1 files
+09:23:59.681 Initializing concepts cache with 0 concepts
+09:23:59.691 Initializing specs cache with 1 specs
+09:23:59.691 Adding specs from E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+09:23:59.691 Initializing steps cache with 1 steps
+09:23:59.691 Gauge daemon initialized and listening on port: 55492
+09:24:23.187 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+09:24:23.215 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+09:24:23.359 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify Call" > 
+09:24:23.368 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify Call" parameterizedStepValue:"Verify Call" > > 
+09:24:25.901 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Dialer" > 
+09:24:25.901 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Dialer" parameterizedStepValue:"Open Dialer" > > 
+10:48:01.149 Unable to send analytics data, timed out
+11:16:01.149 Unable to send analytics data, timed out
+11:44:01.148 Unable to send analytics data, timed out
+15:28:01.148 Unable to send analytics data, timed out
+16:24:01.149 Unable to send analytics data, timed out
+08:00:12.177 Watching directory: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs
+08:00:12.180 Found 1 files
+08:00:12.181 Watching directory: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo
+08:00:12.181 Found 1 files
+08:00:12.187 Initializing concepts cache with 0 concepts
+08:00:12.203 Initializing specs cache with 1 specs
+08:00:12.203 Adding specs from E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+08:00:12.203 Initializing steps cache with 1 steps
+08:00:12.203 Gauge daemon initialized and listening on port: 62240
+08:00:33.961 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Dialer" > 
+08:00:34.033 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Dialer" parameterizedStepValue:"Open Dialer" > > 
+08:00:34.597 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify Call" > 
+08:00:34.597 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify Call" parameterizedStepValue:"Verify Call" > > 
+08:00:35.920 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+08:00:35.920 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+08:00:35.924 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+08:00:35.924 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+11:18:58.215 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:18:58.215 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:18:58.218 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:18:58.218 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:18:58.650 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:18:58.650 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:18:59.697 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open" > 
+11:18:59.697 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open" parameterizedStepValue:"Open" > > 
+11:19:00.175 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open A" > 
+11:19:00.175 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open A" parameterizedStepValue:"Open A" > > 
+11:19:00.985 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open " > 
+11:19:00.985 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open" parameterizedStepValue:"Open" > > 
+11:19:01.416 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open We" > 
+11:19:01.417 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open We" parameterizedStepValue:"Open We" > > 
+11:19:01.809 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Web" > 
+11:19:01.809 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Web" parameterizedStepValue:"Open Web" > > 
+11:19:02.569 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Web App" > 
+11:19:02.569 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Web App" parameterizedStepValue:"Open Web App" > > 
+11:19:03.228 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Web Appicak" > 
+11:19:03.228 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Web Appicak" parameterizedStepValue:"Open Web Appicak" > > 
+11:19:03.888 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Web Appica" > 
+11:19:03.888 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Web Appica" parameterizedStepValue:"Open Web Appica" > > 
+11:19:04.946 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Web Appication" > 
+11:19:04.946 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Web Appication" parameterizedStepValue:"Open Web Appication" > > 
+11:22:23.079 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:22:23.080 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:22:23.081 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:22:23.081 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:22:23.091 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:22:23.091 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:22:23.091 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:22:23.092 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:22:23.092 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:22:23.092 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:22:23.990 Spec file removed: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+11:22:23.991 Spec file added / modified: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+11:52:49.152 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Web Appication {}" > 
+11:52:49.153 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"'{' is a reserved character and should be escaped" > 
+11:52:49.155 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Web Appication {}" > 
+11:52:49.155 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"'{' is a reserved character and should be escaped" > 
+11:52:49.157 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Web Appication {}" > 
+11:52:49.157 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"'{' is a reserved character and should be escaped" > 
+11:52:49.159 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Web Appication {}" > 
+11:52:49.159 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"'{' is a reserved character and should be escaped" > 
+11:52:49.160 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Web Appication {}" > 
+11:52:49.160 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"'{' is a reserved character and should be escaped" > 
+11:52:49.160 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Web Appication {}" > 
+11:52:49.160 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"'{' is a reserved character and should be escaped" > 
+11:52:49.160 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Web Appication {}" > 
+11:52:49.160 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"'{' is a reserved character and should be escaped" > 
+11:52:49.335 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Web Appication {}" > 
+11:52:49.335 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"'{' is a reserved character and should be escaped" > 
+11:52:49.336 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Web Appication {}" > 
+11:52:49.336 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"'{' is a reserved character and should be escaped" > 
+11:52:49.338 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Web Appication {}" > 
+11:52:49.338 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"'{' is a reserved character and should be escaped" > 
+11:52:49.344 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Web Appication {}" > 
+11:52:49.344 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"'{' is a reserved character and should be escaped" > 
+11:52:49.456 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Web Appication {}" > 
+11:52:49.456 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"'{' is a reserved character and should be escaped" > 
+11:52:49.456 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Web Appication {}" > 
+11:52:49.456 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"'{' is a reserved character and should be escaped" > 
+11:52:49.499 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Web Appication {}" > 
+11:52:49.499 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"'{' is a reserved character and should be escaped" > 
+11:52:49.500 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Web Appication {}" > 
+11:52:49.500 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"'{' is a reserved character and should be escaped" > 
+11:52:49.547 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Web Appication {}" > 
+11:52:49.547 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"'{' is a reserved character and should be escaped" > 
+11:52:49.547 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Web Appication {}" > 
+11:52:49.548 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"'{' is a reserved character and should be escaped" > 
+11:52:54.559 Spec file removed: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+11:52:54.562 Spec file added / modified: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+11:53:02.087 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Web Appication <applicationURL>" > 
+11:53:02.087 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Web Appication {}" parameterizedStepValue:"Open Web Appication <applicationURL>" parameters:"applicationURL" > > 
+11:53:26.056 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Web Appication " > 
+11:53:26.056 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Web Appication" parameterizedStepValue:"Open Web Appication" > > 
+11:53:28.468 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Web Appication <>" > 
+11:53:28.468 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Web Appication {}" parameterizedStepValue:"Open Web Appication <>" parameters:"" > > 
+11:53:29.390 Spec file removed: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+11:53:29.391 Spec file added / modified: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+11:55:34.763 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Web Appication <https://docs.gauge.org/latest/writing-specifications.html#parameters>" > 
+11:55:34.764 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Web Appication {}" parameterizedStepValue:"Open Web Appication <https://docs.gauge.org/latest/writing-specifications.html#parameters>" parameters:"https://docs.gauge.org/latest/writing-specifications.html#parameters" > > 
+11:55:35.124 Spec file removed: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+11:55:35.124 Spec file added / modified: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+11:56:14.329 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Web Appication \"\"" > 
+11:56:14.329 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Web Appication {}" parameterizedStepValue:"Open Web Appication <>" parameters:"" > > 
+11:56:14.361 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Web Appication \"\"" > 
+11:56:14.362 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Web Appication {}" parameterizedStepValue:"Open Web Appication <>" parameters:"" > > 
+11:56:15.095 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Web Appication \"https://docs.gauge.org/latest/writing-specifications.html#parameters\"" > 
+11:56:15.096 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Web Appication {}" parameterizedStepValue:"Open Web Appication <https://docs.gauge.org/latest/writing-specifications.html#parameters>" parameters:"https://docs.gauge.org/latest/writing-specifications.html#parameters" > > 
+11:56:15.224 Spec file removed: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+11:56:15.225 Spec file added / modified: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+12:02:54.688 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Web Appication <applicationURL> " > 
+12:02:54.688 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Web Appication {}" parameterizedStepValue:"Open Web Appication <applicationURL>" parameters:"applicationURL" > > 
+12:16:52.076 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open \"\"Web Appication" > 
+12:16:52.076 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open {}Web Appication" parameterizedStepValue:"Open <>Web Appication" parameters:"" > > 
+12:16:53.352 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open \"\"https://docs.gauge.org/latest/writing-specifications.html#parameters\"\"Web Appication" > 
+12:16:53.352 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open {}https://docs.gauge.org/latest/writing-specifications.html#parameters{}Web Appication" parameterizedStepValue:"Open <>https://docs.gauge.org/latest/writing-specifications.html#parameters<>Web Appication" parameters:"" parameters:"" > > 
+12:16:54.431 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open \"\"https://docs.gauge.org/latest/writing-specifications.html#parameters\" \"Web Appication" > 
+12:16:54.431 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open {}https://docs.gauge.org/latest/writing-specifications.html#parameters{}Web Appication" parameterizedStepValue:"Open <>https://docs.gauge.org/latest/writing-specifications.html#parameters< >Web Appication" parameters:"" parameters:" " > > 
+12:16:58.080 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open \"\"https://docs.gauge.org/latest/writing-specifications.html#parameters" > 
+12:16:58.080 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open {}https://docs.gauge.org/latest/writing-specifications.html#parameters" parameterizedStepValue:"Open <>https://docs.gauge.org/latest/writing-specifications.html#parameters" parameters:"" > > 
+12:17:00.619 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open \"\"\\https://docs.gauge.org/latest/writing-specifications.html#parameters" > 
+12:17:00.619 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open {}\\https://docs.gauge.org/latest/writing-specifications.html#parameters" parameterizedStepValue:"Open <>\\https://docs.gauge.org/latest/writing-specifications.html#parameters" parameters:"" > > 
+12:17:01.200 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open \"https://docs.gauge.org/latest/writing-specifications.html#parameters\"Web Appication" > 
+12:17:01.200 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open {}Web Appication" parameterizedStepValue:"Open <https://docs.gauge.org/latest/writing-specifications.html#parameters>Web Appication" parameters:"https://docs.gauge.org/latest/writing-specifications.html#parameters" > > 
+12:17:02.954 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open \"https://docs.gauge.org/latest/writing-specifications.html#parameters\" Web Appication" > 
+12:17:02.955 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open {} Web Appication" parameterizedStepValue:"Open <https://docs.gauge.org/latest/writing-specifications.html#parameters> Web Appication" parameters:"https://docs.gauge.org/latest/writing-specifications.html#parameters" > > 
+12:17:08.010 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Web Appication  " > 
+12:17:08.010 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Web Appication" parameterizedStepValue:"Open Web Appication" > > 
+12:17:13.499 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open <applicationURL>Web Appication" > 
+12:17:13.499 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open {}Web Appication" parameterizedStepValue:"Open <applicationURL>Web Appication" parameters:"applicationURL" > > 
+12:17:14.108 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open <applicationURL> Web Appication" > 
+12:17:14.109 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open {} Web Appication" parameterizedStepValue:"Open <applicationURL> Web Appication" parameters:"applicationURL" > > 
+12:17:14.839 Spec file removed: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+12:17:14.840 Spec file added / modified: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+13:19:58.654 Spec file removed: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+13:19:58.656 Spec file added / modified: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+13:20:04.778 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:04.778 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:04.778 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:04.778 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:04.782 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:04.783 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:04.860 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:04.860 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:04.861 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:04.861 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:04.921 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:04.921 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:04.921 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:04.921 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:04.976 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:04.976 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:04.976 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:04.977 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:05.064 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:05.064 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:05.065 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:05.065 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:05.435 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:05.435 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:05.439 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:05.439 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:05.442 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:05.442 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:05.444 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:05.444 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:05.446 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:05.446 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:05.452 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:05.453 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:05.454 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:05.454 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:05.594 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:05.594 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:05.595 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:05.595 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:05.595 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:05.595 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:05.596 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:05.596 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:05.697 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:05.697 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:05.697 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:05.698 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:05.698 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:05.698 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:05.702 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:05.702 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:05.850 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:05.850 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:05.851 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:05.851 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:05.856 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:05.857 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:05.858 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:05.858 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:05.858 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:05.858 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:05.859 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:05.859 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:05.997 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:05.997 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:05.997 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:05.997 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:06.006 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:06.006 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:06.007 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:06.007 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:06.097 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:06.098 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:06.098 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:06.098 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:06.107 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:06.107 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:06.107 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:06.107 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:06.195 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:06.196 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:06.197 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:06.197 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:06.256 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:06.256 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:06.257 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:06.257 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:12.082 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:12.082 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:12.082 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:12.082 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:12.083 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:12.083 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:12.083 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:12.083 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:12.083 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:12.084 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:12.084 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:12.084 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:12.235 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:12.236 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:12.237 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:12.237 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:12.237 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:12.238 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:12.252 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:12.252 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:12.286 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:12.286 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:12.286 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+13:20:12.286 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+13:20:13.475 Spec file removed: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+13:20:13.476 Spec file added / modified: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+13:24:16.290 Spec file removed: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+13:24:16.292 Spec file added / modified: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+13:34:31.728 Spec file removed: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+13:34:31.729 Spec file added / modified: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+13:34:31.752 Spec file removed: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+13:34:31.753 Spec file added / modified: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+13:34:32.805 Spec file removed: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+13:34:32.805 Spec file added / modified: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+13:34:32.854 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"/" > 
+13:34:32.854 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"/" parameterizedStepValue:"/" > > 
+13:34:32.984 Spec file removed: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+13:34:32.985 Spec file added / modified: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+13:34:33.416 Spec file removed: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+13:34:33.416 Spec file added / modified: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+13:34:41.172 Spec file removed: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+13:34:41.172 Spec file added / modified: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+13:34:41.347 Spec file removed: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+13:34:41.349 Spec file added / modified: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+13:34:41.494 Spec file removed: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+13:34:41.495 Spec file added / modified: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+13:34:50.808 Spec file removed: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+13:34:50.809 Spec file added / modified: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+13:51:19.445 Spec file removed: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+13:51:19.445 Spec file added / modified: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+13:51:19.585 Spec file removed: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+13:51:19.585 Spec file added / modified: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+13:51:21.044 Spec file removed: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+13:51:21.045 Spec file added / modified: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+13:51:31.089 Spec file removed: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+13:51:31.089 Spec file added / modified: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+13:51:31.198 Spec file removed: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+13:51:31.199 Spec file added / modified: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+13:51:32.707 Spec file removed: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+13:51:32.707 Spec file added / modified: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+13:51:43.100 Spec file removed: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+13:51:43.101 Spec file added / modified: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+13:51:43.202 Spec file removed: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+13:51:43.202 Spec file added / modified: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+13:51:46.829 Spec file removed: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+13:51:46.830 Spec file added / modified: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+13:51:58.951 Spec file removed: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+13:51:58.951 Spec file added / modified: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+14:56:46.093 Spec file removed: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+14:56:46.094 Spec file added / modified: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+14:57:02.829 Spec file removed: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+14:57:02.830 Spec file added / modified: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+15:04:46.869 Spec file removed: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+15:04:46.869 Spec file added / modified: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+15:05:30.672 Spec file removed: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+15:05:30.673 Spec file added / modified: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+15:05:38.390 Spec file removed: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+15:05:38.390 Spec file added / modified: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+15:05:40.053 Spec file removed: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+15:05:40.053 Spec file added / modified: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+15:06:07.983 Spec file removed: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+15:06:07.984 Spec file added / modified: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+15:07:16.243 Spec file removed: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+15:07:16.243 Spec file added / modified: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+15:07:16.943 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill Contact Information section" hasInlineTable:true > 
+15:07:16.944 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill Contact Information section {}" parameterizedStepValue:"Fill Contact Information section <table>" parameters:"table" > > 
+15:07:41.495 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill Contact Information section" > 
+15:07:41.496 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill Contact Information section" parameterizedStepValue:"Fill Contact Information section" > > 
+15:07:43.743 Spec file removed: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+15:07:43.743 Spec file added / modified: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+15:09:15.585 Spec file removed: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec
+15:09:15.586 Spec file added / modified: E:\Local_Drive\Automation\Contributor\Gauge-Mobile\ClientDiary\ClientDiary\specs\Demo\mobile.spec

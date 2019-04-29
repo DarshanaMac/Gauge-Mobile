@@ -589,3 +589,456 @@ Total time taken: 25.614s
 15:47:46.173 
 Total time taken: 27.027s
 15:47:46.175 Updates are available. Run `gauge update -c` for more info.
+13:38:40.369 Plugin java is already installed.
+13:38:40.375 Plugin html-report is already installed.
+13:38:41.815 Checking updates...
+13:38:47.918 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+13:38:47.918 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+13:38:47.926 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify Call" > 
+13:38:47.926 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify Call" parameterizedStepValue:"Verify Call" > > 
+13:38:47.926 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Dialer" > 
+13:38:47.927 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Dialer" parameterizedStepValue:"Open Dialer" > > 
+13:39:17.527 Plugin [Html Report] with pid [13100] has exited
+13:39:17.537 Closing connection [127.0.0.1:61629] cause: read tcp 127.0.0.1:61620->127.0.0.1:61629: wsarecv: An existing connection was forcibly closed by the remote host.
+13:39:17.729 Specifications:	1 executed	1 passed	0 failed	0 skipped
+13:39:17.729 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+13:39:17.729 
+Total time taken: 26.658s
+13:39:17.731 Updates are available. Run `gauge update -c` for more info.
+12:29:23.763 Plugin java is already installed.
+12:29:23.780 Plugin html-report is already installed.
+12:29:25.343 Checking updates...
+12:29:32.982 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+12:29:32.983 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+12:29:33.037 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify Call" > 
+12:29:33.037 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify Call" parameterizedStepValue:"Verify Call" > > 
+12:29:33.038 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Dialer" > 
+12:29:33.038 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Dialer" parameterizedStepValue:"Open Dialer" > > 
+12:30:03.566 Plugin [Html Report] with pid [19776] has exited
+12:30:03.576 Closing connection [127.0.0.1:55436] cause: read tcp 127.0.0.1:55430->127.0.0.1:55436: wsarecv: An existing connection was forcibly closed by the remote host.
+12:30:03.775 Specifications:	1 executed	1 passed	0 failed	0 skipped
+12:30:03.775 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+12:30:03.775 
+Total time taken: 26.997s
+12:30:03.790 Updates are available. Run `gauge update -c` for more info.
+14:58:36.993 Plugin java is already installed.
+14:58:37.000 Plugin html-report is already installed.
+14:58:38.851 Checking updates...
+14:58:50.670 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+14:58:50.671 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+14:58:50.680 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify Call" > 
+14:58:50.680 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify Call" parameterizedStepValue:"Verify Call" > > 
+14:58:50.680 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Dialer" > 
+14:58:50.680 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Dialer" parameterizedStepValue:"Open Dialer" > > 
+14:59:12.383 Plugin java is already installed.
+14:59:12.386 Plugin html-report is already installed.
+14:59:14.740 Checking updates...
+14:59:26.746 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+14:59:26.747 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+14:59:26.758 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify Call" > 
+14:59:26.759 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify Call" parameterizedStepValue:"Verify Call" > > 
+14:59:26.759 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Dialer" > 
+14:59:26.759 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Dialer" parameterizedStepValue:"Open Dialer" > > 
+15:00:57.904 Plugin java is already installed.
+15:00:57.921 Plugin html-report is already installed.
+15:01:03.182 Checking updates...
+15:01:08.561 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+15:01:08.561 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+15:01:08.571 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify Call" > 
+15:01:08.572 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify Call" parameterizedStepValue:"Verify Call" > > 
+15:01:08.572 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Dialer" > 
+15:01:08.572 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Dialer" parameterizedStepValue:"Open Dialer" > > 
+15:01:12.638 Plugin [Html Report] with pid [12856] has exited
+15:01:12.799 Closing connection [127.0.0.1:60121] cause: read tcp 127.0.0.1:60116->127.0.0.1:60121: wsarecv: An existing connection was forcibly closed by the remote host.
+15:01:13.039 Specifications:	1 executed	0 passed	1 failed	0 skipped
+15:01:13.039 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+15:01:13.039 
+Total time taken: 1.005s
+15:01:13.042 Updates are available. Run `gauge update -c` for more info.
+15:13:43.743 Plugin java is already installed.
+15:13:43.747 Plugin html-report is already installed.
+15:13:46.279 Checking updates...
+15:13:55.516 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+15:13:55.517 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+15:13:55.526 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify Call" > 
+15:13:55.527 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify Call" parameterizedStepValue:"Verify Call" > > 
+15:13:55.527 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Dialer" > 
+15:13:55.527 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Dialer" parameterizedStepValue:"Open Dialer" > > 
+15:22:58.316 Plugin java is already installed.
+15:22:58.319 Plugin html-report is already installed.
+15:23:00.706 Checking updates...
+15:23:10.196 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+15:23:10.197 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+15:23:10.207 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify Call" > 
+15:23:10.207 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify Call" parameterizedStepValue:"Verify Call" > > 
+15:23:10.207 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Dialer" > 
+15:23:10.207 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Dialer" parameterizedStepValue:"Open Dialer" > > 
+15:24:27.319 Plugin java is already installed.
+15:24:27.322 Plugin html-report is already installed.
+15:24:29.380 Checking updates...
+15:24:38.758 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+15:24:38.759 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+15:24:38.768 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify Call" > 
+15:24:38.768 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify Call" parameterizedStepValue:"Verify Call" > > 
+15:24:38.768 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Dialer" > 
+15:24:38.768 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Dialer" parameterizedStepValue:"Open Dialer" > > 
+15:25:52.275 Plugin java is already installed.
+15:25:52.281 Plugin html-report is already installed.
+15:25:54.314 Checking updates...
+15:25:59.447 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+15:25:59.448 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+15:25:59.456 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify Call" > 
+15:25:59.456 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify Call" parameterizedStepValue:"Verify Call" > > 
+15:25:59.457 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Dialer" > 
+15:25:59.457 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Dialer" parameterizedStepValue:"Open Dialer" > > 
+15:26:03.649 Plugin [Html Report] with pid [20664] has exited
+15:26:03.810 Closing connection [127.0.0.1:60436] cause: read tcp 127.0.0.1:60431->127.0.0.1:60436: wsarecv: An existing connection was forcibly closed by the remote host.
+15:26:04.052 Specifications:	1 executed	0 passed	1 failed	0 skipped
+15:26:04.052 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+15:26:04.052 
+Total time taken: 1.156s
+15:26:04.056 Updates are available. Run `gauge update -c` for more info.
+13:42:20.674 Plugin java is already installed.
+13:42:20.679 Plugin html-report is already installed.
+13:42:25.484 Checking updates...
+13:42:33.196 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+13:42:33.196 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+13:42:33.206 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify Call" > 
+13:42:33.206 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify Call" parameterizedStepValue:"Verify Call" > > 
+13:42:33.206 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Dialer" > 
+13:42:33.206 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Dialer" parameterizedStepValue:"Open Dialer" > > 
+13:43:27.272 Plugin html-report is already installed.
+13:43:27.274 Plugin java is already installed.
+13:43:28.670 Checking updates...
+13:43:37.682 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+13:43:37.683 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+13:43:37.690 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify Call" > 
+13:43:37.690 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify Call" parameterizedStepValue:"Verify Call" > > 
+13:43:37.691 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Dialer" > 
+13:43:37.691 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Dialer" parameterizedStepValue:"Open Dialer" > > 
+13:44:02.771 Plugin java is already installed.
+13:44:02.779 Plugin html-report is already installed.
+13:44:04.766 Checking updates...
+13:44:08.857 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+13:44:08.857 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+13:44:08.864 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify Call" > 
+13:44:08.864 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify Call" parameterizedStepValue:"Verify Call" > > 
+13:44:08.864 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Dialer" > 
+13:44:08.864 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Dialer" parameterizedStepValue:"Open Dialer" > > 
+13:44:12.621 Plugin [Html Report] with pid [15276] has exited
+13:44:12.784 Closing connection [127.0.0.1:54371] cause: read tcp 127.0.0.1:54364->127.0.0.1:54371: wsarecv: An existing connection was forcibly closed by the remote host.
+13:44:13.023 Specifications:	1 executed	0 passed	1 failed	0 skipped
+13:44:13.023 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+13:44:13.023 
+Total time taken: 871ms
+13:44:13.025 Updates are available. Run `gauge update -c` for more info.
+13:45:03.344 Plugin java is already installed.
+13:45:03.347 Plugin html-report is already installed.
+13:45:04.866 Checking updates...
+13:45:13.593 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+13:45:13.593 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+13:45:13.601 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify Call" > 
+13:45:13.601 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify Call" parameterizedStepValue:"Verify Call" > > 
+13:45:13.601 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Dialer" > 
+13:45:13.602 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Dialer" parameterizedStepValue:"Open Dialer" > > 
+13:45:28.809 Plugin java is already installed.
+13:45:28.830 Plugin html-report is already installed.
+13:45:31.524 Checking updates...
+13:45:35.365 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+13:45:35.365 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+13:45:35.373 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify Call" > 
+13:45:35.373 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify Call" parameterizedStepValue:"Verify Call" > > 
+13:45:35.373 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Dialer" > 
+13:45:35.373 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Dialer" parameterizedStepValue:"Open Dialer" > > 
+13:45:38.881 Plugin [Html Report] with pid [24704] has exited
+13:45:39.042 Closing connection [127.0.0.1:54472] cause: read tcp 127.0.0.1:54466->127.0.0.1:54472: wsarecv: An existing connection was forcibly closed by the remote host.
+13:45:39.284 Specifications:	1 executed	0 passed	1 failed	0 skipped
+13:45:39.284 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+13:45:39.284 
+Total time taken: 852ms
+13:45:39.285 Updates are available. Run `gauge update -c` for more info.
+08:39:22.252 Plugin java is already installed.
+08:39:22.260 Plugin html-report is already installed.
+08:39:23.754 Checking updates...
+08:39:30.420 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+08:39:30.421 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+08:39:30.428 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify Call" > 
+08:39:30.428 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify Call" parameterizedStepValue:"Verify Call" > > 
+08:39:30.429 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Dialer" > 
+08:39:30.429 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Dialer" parameterizedStepValue:"Open Dialer" > > 
+08:40:00.795 Plugin [Html Report] with pid [19212] has exited
+08:40:00.802 Closing connection [127.0.0.1:63192] cause: read tcp 127.0.0.1:63186->127.0.0.1:63192: wsarecv: An existing connection was forcibly closed by the remote host.
+08:40:01.097 Specifications:	1 executed	1 passed	0 failed	0 skipped
+08:40:01.097 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+08:40:01.097 
+Total time taken: 27.07s
+08:40:01.099 Updates are available. Run `gauge update -c` for more info.
+11:22:32.678 Plugin java is already installed.
+11:22:32.684 Plugin html-report is already installed.
+11:22:34.359 Checking updates...
+11:22:39.760 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+11:22:39.761 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+11:22:39.772 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify Call" > 
+11:22:39.772 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify Call" parameterizedStepValue:"Verify Call" > > 
+11:22:39.773 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Web Appication" > 
+11:22:39.773 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Web Appication" parameterizedStepValue:"Open Web Appication" > > 
+11:22:39.773 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Dialer" > 
+11:22:39.773 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Dialer" parameterizedStepValue:"Open Dialer" > > 
+11:22:53.589 Plugin [Html Report] with pid [10340] has exited
+11:22:53.758 Closing connection [127.0.0.1:53020] cause: read tcp 127.0.0.1:53015->127.0.0.1:53020: wsarecv: An existing connection was forcibly closed by the remote host.
+11:22:53.998 Specifications:	1 executed	0 passed	1 failed	0 skipped
+11:22:53.998 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+11:22:53.998 
+Total time taken: 9.921s
+11:22:54.000 Updates are available. Run `gauge update -c` for more info.
+11:25:42.996 Plugin java is already installed.
+11:25:43.000 Plugin html-report is already installed.
+11:25:44.253 Checking updates...
+11:25:55.502 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+11:25:55.503 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+11:25:55.513 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify Call" > 
+11:25:55.513 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify Call" parameterizedStepValue:"Verify Call" > > 
+11:25:55.513 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Web Appication" > 
+11:25:55.513 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Web Appication" parameterizedStepValue:"Open Web Appication" > > 
+11:25:55.513 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Dialer" > 
+11:25:55.513 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Dialer" parameterizedStepValue:"Open Dialer" > > 
+11:28:10.981 Plugin java is already installed.
+11:28:10.986 Plugin html-report is already installed.
+11:28:12.430 Checking updates...
+11:28:25.759 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+11:28:25.814 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+11:28:25.829 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify Call" > 
+11:28:25.829 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify Call" parameterizedStepValue:"Verify Call" > > 
+11:28:25.830 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Web Appication" > 
+11:28:25.830 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Web Appication" parameterizedStepValue:"Open Web Appication" > > 
+11:28:25.830 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Dialer" > 
+11:28:25.832 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Dialer" parameterizedStepValue:"Open Dialer" > > 
+11:29:52.142 Plugin java is already installed.
+11:29:52.147 Plugin html-report is already installed.
+11:29:53.407 Checking updates...
+11:30:10.767 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+11:30:10.768 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+11:30:10.786 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify Call" > 
+11:30:10.786 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify Call" parameterizedStepValue:"Verify Call" > > 
+11:30:10.799 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Web Appication" > 
+11:30:10.799 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Web Appication" parameterizedStepValue:"Open Web Appication" > > 
+11:30:10.803 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Dialer" > 
+11:30:10.803 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Dialer" parameterizedStepValue:"Open Dialer" > > 
+11:38:59.014 Plugin java is already installed.
+11:38:59.018 Plugin html-report is already installed.
+11:39:01.050 Checking updates...
+11:39:10.303 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+11:39:10.304 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+11:39:10.313 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify Call" > 
+11:39:10.313 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify Call" parameterizedStepValue:"Verify Call" > > 
+11:39:10.314 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Web Appication" > 
+11:39:10.314 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Web Appication" parameterizedStepValue:"Open Web Appication" > > 
+11:39:10.314 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Dialer" > 
+11:39:10.314 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Dialer" parameterizedStepValue:"Open Dialer" > > 
+11:45:34.093 Plugin java is already installed.
+11:45:34.094 Plugin html-report is already installed.
+11:45:35.762 Checking updates...
+11:45:44.694 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+11:45:44.694 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+11:45:44.702 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify Call" > 
+11:45:44.702 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify Call" parameterizedStepValue:"Verify Call" > > 
+11:45:44.702 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Web Appication" > 
+11:45:44.703 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Web Appication" parameterizedStepValue:"Open Web Appication" > > 
+11:45:44.703 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Dialer" > 
+11:45:44.703 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Dialer" parameterizedStepValue:"Open Dialer" > > 
+11:46:52.540 Plugin java is already installed.
+11:46:52.545 Plugin html-report is already installed.
+11:46:53.981 Checking updates...
+11:47:02.605 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+11:47:02.606 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+11:47:02.619 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify Call" > 
+11:47:02.620 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify Call" parameterizedStepValue:"Verify Call" > > 
+11:47:02.620 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Web Appication" > 
+11:47:02.620 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Web Appication" parameterizedStepValue:"Open Web Appication" > > 
+11:47:02.621 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Dialer" > 
+11:47:02.621 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Dialer" parameterizedStepValue:"Open Dialer" > > 
+11:51:06.420 Plugin java is already installed.
+11:51:06.422 Plugin html-report is already installed.
+11:51:07.674 Checking updates...
+11:51:17.314 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+11:51:17.315 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+11:51:17.325 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify Call" > 
+11:51:17.325 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify Call" parameterizedStepValue:"Verify Call" > > 
+11:51:17.325 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Web Appication" > 
+11:51:17.325 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Web Appication" parameterizedStepValue:"Open Web Appication" > > 
+11:51:17.326 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Dialer" > 
+11:51:17.326 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Dialer" parameterizedStepValue:"Open Dialer" > > 
+12:03:09.811 Plugin java is already installed.
+12:03:09.816 Plugin html-report is already installed.
+12:03:11.182 Checking updates...
+12:03:16.868 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+12:03:16.869 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+12:03:16.877 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify Call" > 
+12:03:16.877 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify Call" parameterizedStepValue:"Verify Call" > > 
+12:03:16.878 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Web Appication <applicationURL> " > 
+12:03:16.878 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Web Appication {}" parameterizedStepValue:"Open Web Appication <applicationURL>" parameters:"applicationURL" > > 
+12:03:16.879 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Dialer" > 
+12:03:16.879 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Dialer" parameterizedStepValue:"Open Dialer" > > 
+12:03:20.046 Plugin [Html Report] with pid [20312] has exited
+12:03:20.053 Closing connection [127.0.0.1:57366] cause: read tcp 127.0.0.1:57361->127.0.0.1:57366: wsarecv: An existing connection was forcibly closed by the remote host.
+12:03:20.247 Specifications:	1 executed	0 passed	1 failed	0 skipped
+12:03:20.247 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+12:03:20.247 
+Total time taken: 162ms
+12:03:20.248 Updates are available. Run `gauge update -c` for more info.
+12:08:02.286 Plugin java is already installed.
+12:08:02.287 Plugin html-report is already installed.
+12:08:03.468 Checking updates...
+12:08:12.863 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+12:08:12.864 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+12:08:12.871 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify Call" > 
+12:08:12.871 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify Call" parameterizedStepValue:"Verify Call" > > 
+12:08:12.871 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Web Appication <applicationURL> " > 
+12:08:12.871 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Web Appication {}" parameterizedStepValue:"Open Web Appication <applicationURL>" parameters:"applicationURL" > > 
+12:08:12.872 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Dialer" > 
+12:08:12.872 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Dialer" parameterizedStepValue:"Open Dialer" > > 
+12:11:34.544 Plugin java is already installed.
+12:11:34.552 Plugin html-report is already installed.
+12:11:35.904 Checking updates...
+12:11:45.602 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+12:11:45.602 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+12:11:45.611 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify Call" > 
+12:11:45.611 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify Call" parameterizedStepValue:"Verify Call" > > 
+12:11:45.611 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Web Appication <applicationURL> " > 
+12:11:45.611 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Web Appication {}" parameterizedStepValue:"Open Web Appication <applicationURL>" parameters:"applicationURL" > > 
+12:11:45.612 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Dialer" > 
+12:11:45.612 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Dialer" parameterizedStepValue:"Open Dialer" > > 
+12:17:58.648 Plugin java is already installed.
+12:17:58.649 Plugin html-report is already installed.
+12:18:00.045 Checking updates...
+12:18:09.065 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+12:18:09.066 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+12:18:09.074 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify Call" > 
+12:18:09.074 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify Call" parameterizedStepValue:"Verify Call" > > 
+12:18:09.075 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open <applicationURL> Web Appication" > 
+12:18:09.075 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open {} Web Appication" parameterizedStepValue:"Open <applicationURL> Web Appication" parameters:"applicationURL" > > 
+12:18:09.075 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Dialer" > 
+12:18:09.075 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Dialer" parameterizedStepValue:"Open Dialer" > > 
+13:18:23.731 Plugin html-report is already installed.
+13:18:23.735 Plugin java is already installed.
+13:18:25.239 Checking updates...
+13:18:36.168 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+13:18:36.169 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+13:18:36.177 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify Call" > 
+13:18:36.177 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify Call" parameterizedStepValue:"Verify Call" > > 
+13:18:36.177 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open <applicationURL> Web Appication" > 
+13:18:36.178 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open {} Web Appication" parameterizedStepValue:"Open <applicationURL> Web Appication" parameters:"applicationURL" > > 
+13:18:36.179 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Dialer" > 
+13:18:36.179 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Dialer" parameterizedStepValue:"Open Dialer" > > 
+13:23:23.508 Plugin java is already installed.
+13:23:23.509 Plugin html-report is already installed.
+13:23:24.967 Checking updates...
+13:23:30.080 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+13:23:30.080 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+13:23:30.087 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify Call" > 
+13:23:30.087 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify Call" parameterizedStepValue:"Verify Call" > > 
+13:23:30.088 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open <applicationURL> Web Appication" > 
+13:23:30.088 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open {} Web Appication" parameterizedStepValue:"Open <applicationURL> Web Appication" parameters:"applicationURL" > > 
+13:23:30.089 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Dialer" > 
+13:23:30.089 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Dialer" parameterizedStepValue:"Open Dialer" > > 
+13:23:53.629 Plugin [Html Report] with pid [12888] has exited
+13:23:53.789 Closing connection [127.0.0.1:62998] cause: read tcp 127.0.0.1:62989->127.0.0.1:62998: wsarecv: An existing connection was forcibly closed by the remote host.
+13:23:54.031 Specifications:	1 executed	0 passed	1 failed	0 skipped
+13:23:54.031 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+13:23:54.031 
+Total time taken: 20.69s
+13:23:54.037 Updates are available. Run `gauge update -c` for more info.
+13:25:00.880 Plugin java is already installed.
+13:25:00.881 Plugin html-report is already installed.
+13:25:02.731 Checking updates...
+13:25:09.244 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+13:25:09.244 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+13:25:09.251 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify Call" > 
+13:25:09.251 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify Call" parameterizedStepValue:"Verify Call" > > 
+13:25:09.251 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open <applicationURL> Web Appication" > 
+13:25:09.251 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open {} Web Appication" parameterizedStepValue:"Open <applicationURL> Web Appication" parameters:"applicationURL" > > 
+13:25:09.252 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Dialer" > 
+13:25:09.252 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Dialer" parameterizedStepValue:"Open Dialer" > > 
+13:25:14.909 Plugin [Html Report] with pid [16508] has exited
+13:25:15.068 Closing connection [127.0.0.1:63300] cause: read tcp 127.0.0.1:63296->127.0.0.1:63300: wsarecv: An existing connection was forcibly closed by the remote host.
+13:25:15.313 Specifications:	1 executed	0 passed	1 failed	0 skipped
+13:25:15.313 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+13:25:15.313 
+Total time taken: 1.592s
+13:25:15.315 Updates are available. Run `gauge update -c` for more info.
+13:25:50.212 Plugin java is already installed.
+13:25:50.214 Plugin html-report is already installed.
+13:25:51.385 Checking updates...
+13:26:00.400 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+13:26:00.401 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+13:26:00.410 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify Call" > 
+13:26:00.410 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify Call" parameterizedStepValue:"Verify Call" > > 
+13:26:00.411 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open <applicationURL> Web Appication" > 
+13:26:00.411 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open {} Web Appication" parameterizedStepValue:"Open <applicationURL> Web Appication" parameters:"applicationURL" > > 
+13:26:00.412 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Dialer" > 
+13:26:00.412 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Dialer" parameterizedStepValue:"Open Dialer" > > 
+13:31:14.631 Plugin java is already installed.
+13:31:14.631 Plugin html-report is already installed.
+13:31:16.070 Checking updates...
+13:31:24.598 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+13:31:24.599 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+13:31:24.608 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify Call" > 
+13:31:24.608 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify Call" parameterizedStepValue:"Verify Call" > > 
+13:31:24.609 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open <applicationURL> Web Appication" > 
+13:31:24.609 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open {} Web Appication" parameterizedStepValue:"Open <applicationURL> Web Appication" parameters:"applicationURL" > > 
+13:31:24.610 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Dialer" > 
+13:31:24.610 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Dialer" parameterizedStepValue:"Open Dialer" > > 
+13:31:57.981 Plugin java is already installed.
+13:31:57.983 Plugin html-report is already installed.
+13:31:59.327 Checking updates...
+13:32:06.807 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+13:32:06.808 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+13:32:06.817 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify Call" > 
+13:32:06.817 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify Call" parameterizedStepValue:"Verify Call" > > 
+13:32:06.817 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open <applicationURL> Web Appication" > 
+13:32:06.818 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open {} Web Appication" parameterizedStepValue:"Open <applicationURL> Web Appication" parameters:"applicationURL" > > 
+13:32:06.819 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Dialer" > 
+13:32:06.819 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Dialer" parameterizedStepValue:"Open Dialer" > > 
+13:32:12.860 Plugin [Html Report] with pid [23424] has exited
+13:32:13.019 Closing connection [127.0.0.1:63945] cause: read tcp 127.0.0.1:63934->127.0.0.1:63945: wsarecv: An existing connection was forcibly closed by the remote host.
+13:32:13.262 Specifications:	1 executed	0 passed	1 failed	0 skipped
+13:32:13.262 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+13:32:13.262 
+Total time taken: 2.957s
+13:32:13.264 Updates are available. Run `gauge update -c` for more info.
+13:32:22.390 Plugin java is already installed.
+13:32:22.395 Plugin html-report is already installed.
+13:32:23.830 Checking updates...
+13:32:31.466 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+13:32:31.467 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+13:32:31.474 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify Call" > 
+13:32:31.474 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify Call" parameterizedStepValue:"Verify Call" > > 
+13:32:31.474 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open <applicationURL> Web Appication" > 
+13:32:31.474 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open {} Web Appication" parameterizedStepValue:"Open <applicationURL> Web Appication" parameters:"applicationURL" > > 
+13:32:31.475 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Dialer" > 
+13:32:31.475 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Dialer" parameterizedStepValue:"Open Dialer" > > 
+13:32:37.174 Plugin [Html Report] with pid [2016] has exited
+13:32:37.341 Closing connection [127.0.0.1:64004] cause: read tcp 127.0.0.1:63995->127.0.0.1:64004: wsarecv: An existing connection was forcibly closed by the remote host.
+13:32:37.577 Specifications:	1 executed	0 passed	1 failed	0 skipped
+13:32:37.577 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+13:32:37.577 
+Total time taken: 2.695s
+13:32:37.579 Updates are available. Run `gauge update -c` for more info.
+13:33:08.414 Plugin java is already installed.
+13:33:08.416 Plugin html-report is already installed.
+13:33:10.173 Checking updates...
+13:33:14.616 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter mobile number" > 
+13:33:14.616 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter mobile number" parameterizedStepValue:"Enter mobile number" > > 
+13:33:14.624 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify Call" > 
+13:33:14.624 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify Call" parameterizedStepValue:"Verify Call" > > 
+13:33:14.625 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open <applicationURL> Web Appication" > 
+13:33:14.625 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open {} Web Appication" parameterizedStepValue:"Open <applicationURL> Web Appication" parameters:"applicationURL" > > 
+13:33:14.625 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Dialer" > 
+13:33:14.625 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Dialer" parameterizedStepValue:"Open Dialer" > > 
+13:33:42.573 Plugin [Html Report] with pid [19108] has exited
+13:33:42.747 Closing connection [127.0.0.1:64120] cause: read tcp 127.0.0.1:64111->127.0.0.1:64120: wsarecv: An existing connection was forcibly closed by the remote host.
+13:33:43.094 Specifications:	1 executed	1 passed	0 failed	0 skipped
+13:33:43.094 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+13:33:43.094 
+Total time taken: 24.301s
+13:33:43.101 Updates are available. Run `gauge update -c` for more info.

@@ -1,4 +1,641 @@
 {
+  "LayoutPage": {
+    "LoginLink": ".login-btn",
+    "SignOutLink": "a[href$='SignOut']",
+    "ApplyOnlineButton": ".user-apply>a",
+    "CartButton": ".user-minicart a.mini-cart-display",
+    "CompareTab": ".title .icon-arrow-horizontal",
+    "WishListButton": "a[href*='wish-list']",
+    "Logo": ".logo",
+    "SearchTextField": ".header-search input",
+    "AboutRadioRentalsLink": ".about-btn",
+    "StoreLocatorLink": "a[href*='store-locator']",
+    "ContactUsLink": "a[href*='contact-us']",
+    "LocationButton": ".location-btn",
+    "LocationCodeTextField": ".header-location-extend ul li div div input",
+    "LocationSaveButton": ".header-location-extend ul li .btn-save",
+    "ViewCartButton": ".button.green",
+    "WishListLink": ".user-wishlist>a",
+    "SearchButton": ".header-search>form>button"
+  },
 
+  "HomePage": {
+    "Url": "/",
+    "BrandsPanel": ".container>section:nth-of-type(4)",
+    "ViewAllBrandsButton": ".btn-brand>a"
+  },
 
+  "LoginPage": {
+    "Url": "/login",
+    "HeaderTitle": "h1",
+    "EmailAddressTextField": "#Email",
+    "PasswordTextField": "#Password",
+    "SignInButton": "input[value='Sign in']",
+    "RememberMeCheckboxSelection": "#RememberMe",
+    "RememberMeCheckbox": "label[for='RememberMe']",
+    "ForgotYourPasswordLink": "a[href*='reset-password']",
+    "WrongUsernameOrPasswordValidationMessage": ".error-general",
+    "EmailRequiredFieldValidationMessage": "#Email-error",
+    "PasswordRequiredFieldValidationMessage": "#Password-error",
+    "CreateAProfileButton": "a[href*='register-account']"
+  },
+
+  "RegisterAccountPage": {
+    "Url": "/register-account",
+    "HeaderTitle": "h1",
+    "FormTitle": "h2",
+    "TitleDropDownList": "Title",
+    "DateDropDownList": "DateOfBirthDay",
+    "MonthDropDownList": "DateOfBirthMonth",
+    "FirstNameTextField": "#Address_FirstName",
+    "LastNameTextField": "#Address_LastName",
+    "BirthYearTextField": "#DateOfBirthYear",
+    "EmailTextField": "#Email",
+    "RegisterButton": "input[value='Register']",
+    "MobileNumberTextField": "#Address_DaytimePhoneNumber",
+    "VipCardNumberTextField": "#VipCardNumber",
+    "AccountNumberTextField": "#CustAccountNumber",
+    "EmailAddressTextField": "#EmailLogin",
+    "PasswordTextField": "#Password",
+    "RememberMeCheckbox": "label[for='RememberMe']",
+    "SignInButton": "input[value='Sign in']",
+    "ForgotYourPasswordLink": "a[href*='reset-password']",
+    "MobileNumberToolIcon": "#RegisterForm >div:nth-of-type(7)>label .tooltip .indi>i",
+    "VipCardNumberTooltipIcon": "#RegisterForm >div:nth-of-type(8)>label .tooltip .indi>i",
+    "AccountNumberTooltipIcon": "#RegisterForm >div:nth-of-type(9)>label .tooltip .indi>i",
+    "MobileNumberTooltip": "#RegisterForm >div:nth-of-type(7)>label .cont",
+    "VipCardNumberToolTip": "#RegisterForm >div:nth-of-type(8)>label .cont",
+    "AccountNumberToolTip": "#RegisterForm >div:nth-of-type(9)>label .cont",
+    "TitleRequiredFieldValidationMessageLabel": "#Title-error",
+    "FirstNameRequiredFieldValidationMessageLabel": "#Address_FirstName-error",
+    "LastNameRequiredFieldValidationMessageLabel": "#Address_LastName-error",
+    "EmailFieldValidationMessageLabel": "#Email-error",
+    "MobileNumberFieldValidationMessageLabel": "#Address_DaytimePhoneNumber-error",
+    "VipCardNumberFieldValidationMessageLabel": "#VipCardNumber-error",
+    "AccountNumberCustomErrorValidationMessageLabel": "#CustAccountNumber-error",
+    "DateOfBirthDayFieldValidationMessageLabel": "#DateOfBirthDay-error",
+    "DateOfBirthYearFieldValidationMessageLabel": "#DateOfBirthYear-error",
+    "ErrorMessageLabel": "div[style='color:red']>p"
+  },
+
+  "ThankYouPage": {
+    "WelcomeMessage": ".registerAcc-thanks>p"
+  },
+
+  "BeforeYouApplyPage": {
+    "Url": "/before-you-apply",
+    "HeaderTitle": "h1",
+    "FormTitle": "h2",
+    "TermsAndConditionsCheckbox": "label[for='Agree']",
+    "MarketingMaterialUnsubscription": "label[for='UnsubscribeToEnews']",
+    "BeginApplicationButton": "#before-apply-submit"
+  },
+
+  "PersonalDetailsApplyFromPage": {
+    "Url": "/personal-details/apply-from/",
+    "ApplicationFromRadioButtonList": ".radio-outline>label",
+    "InStoreRadioButton": "#PersonalDetails_ApplyFrom div div:nth-of-type(2) div:nth-of-type(2) div:nth-of-type(1) div:nth-of-type(1) div label:nth-of-type(1)",
+    "SelectAStore": "#Store",
+    "AreYouBeingAssistedByASalesPersonAndDoYouKnowTheirName": {
+      "Yes": "label[for='KnowSalepersonName']",
+      "No": "label[for='knowsaleperson-no']"
+    },
+    "NextButton": "#before-apply-submit"
+  },
+
+  "PersonalDetailsContactDetailsPage": {
+    "Url": "/personal-details/contact-details/",
+    "TitleDropDownList": "Title",
+    "FirstNameTextField": "#FirstName",
+    "MiddleNameTextField": "#MiddleName",
+    "LastNameTextField": "#Surname",
+    "EmailTextField": "#Email",
+    "ConfirmMailTextField": "#ConfirmEmail",
+    "AreaCodeTextField": "#AreaCode",
+    "HomePhoneNumberTextField": "#HomePhoneNumber",
+    "MobilePhoneTextField": "#MobilePhone",
+    "PreferredContactTimeDropDownList": "PreferredContactTime",
+    "NextButton": "input[value='Next']"
+  },
+
+  "PersonalDetailsInrentAccountPage": {
+    "Url": "personal-details/inrent-account/",
+    "AreYouCurrentlyOrHaveYouEverBeenAnInRentCustomer": {
+      "InRentCustomerRadioButton": "label[for='IsInRentCustomer']"
+    },
+    "DoYouHaveYourAccountNumberOrInRentCardNumber": {
+      "YesRadioButton": "label[for='HaveAccountOrCardNumber']"
+    },
+    "Type": {
+      "AccountNumberRadioButton": "label[for='Type']"
+    },
+    "NumberTextField": "#Number",
+    "NextButton": "input[value='Next']",
+    "ConfirmationToProceedPopUp": "#cboxWrapper",
+    "IWillCompleteThisApplicationButton": "#assist-no"
+  },
+
+  "PersonalDetailsInformationPage": {
+    "Url": "personal-details/information/",
+    "GenderDropDownList": "Gender",
+    "DateDropDownList": "DateOfBirthDay",
+    "MonthDropDownList": "DateOfBirthMonth",
+    "DateOfBirthYearTextField": "#DateOfBirthYear",
+    "IdentificationTypeDropDownList": "IdentificationType",
+    "IdentifcationNumber": "#IdentificationNumber",
+    "IdentificationExpiryDayDropDownList": "IdentificationExpiryDay",
+    "IdentificationExpiryMonthDropDownList": "IdentificationExpiryMonth",
+    "IdentificationExpiryYear": "#IdentificationExpiryYear",
+    "IdShowWhereYouAreCurrentlyLivingDropDownList": "IdShowWhereLiving",
+    "MaritalStatusDropDownList": "MaritalStatus",
+    "HaveYouEverChangedYourNameVisaMarriageDeedPoolOrViaAnyOtherMeans": {
+      "YesRadioButton": "label[for='ChangedYourName']",
+      "NoRadioButton": "label[for='ChangeYourName-false']"
+    },
+    "AreYouAnAustralianCitizenOrAPermanentAustralianResident": {
+      "YesRadioButton": "label[for='BeAustralianCitizen']"
+    },
+    "NextButton": "input[value='Next']"
+  },
+
+  "ResidentialDetailsStatusPage": {
+    "Url": "residential-details/status/",
+    "ResidentialStatusDropDownList": "ResidentialStatus",
+    "LandlordOrAgentsNameTextField": "#LandlordName",
+    "LandlordPhoneTextField": "#LandlordPhone",
+    "LandlordAmountTextField": "#LandlordAmount",
+    "LandlordFrequencyDropDownList": "LandlordFrequency",
+    "NextButton": "input[value='NEXT']"
+  },
+
+  "ResidentialDetailsYourAddressPage": {
+    "Url": "residential-details/your-addresses/",
+    "PropertyOrBuildingNameTextField": "#CurrentAddress_PropertyName",
+    "UnitNoTextField": "#CurrentAddress_UnitNo",
+    "HouseNoTextField": "#CurrentAddress_HouseNo",
+    "StreetNameTextField": "#CurrentAddress_StreetName",
+    "StreetTypeDropDownList": "CurrentAddress_StreetType",
+    "SuburbTextField": "#CurrentAddress_Suburb",
+    "SuburbSelectionList": "#eac-container-CurrentAddress_Suburb ul li",
+    "SuburbSelectedValue": ".easy-autocomplete-container ul li:nth-of-type(2)",
+    "StateDropDownList": "CurrentAddress_State",
+    "PostCodeTextField": "#CurrentAddress_PostCode",
+    "LengthOfTimeAtAddress": {
+      "YearsTextField": "#CurrentAddress_Year",
+      "MonthsTextField": "#CurrentAddress_Month"
+    },
+    "NextButton": "input[value='Next']",
+    "YouEnteredLabel": ".txt-title"
+  },
+
+  "Part1CallMePage": {
+    "Url": "online-application/part-1-call-me/",
+    "ContinueNowButton": "a[href*='occupation']"
+  },
+
+  "OccupationPage": {
+    "Url": "income-expense-details/occupation/",
+    "YourCurrentOccupationDropDownList": "CurrentOccupationType",
+    "EmployementTypeDropDownList": "EmploymentType",
+    "JobTitleTextField": "#JobTitle",
+    "WorkContactPhoneAreaCodeTextField": "#WorkContactPhoneAreaCode",
+    "WorkContactPhoneNumberTextField": "#WorkContactPhoneNumber",
+    "EmployersBusinessNameTextField": "#CompanyName",
+    "UnitNoTextField": "#CompanyUnitLevelNo",
+    "StreetNoTextField": "#CompanyStreetNo",
+    "StreetNameTextField": "#CompanyStreetName",
+    "StreetTypeDropDownList": "CompanyStreetType",
+    "SuburbTextField": "#CompanySuburb",
+    "SuburbSelectedValue": ".easy-autocomplete-container ul li:nth-of-type(1)",
+    "StateDropDownList": "CompanyState",
+    "PostCodeTextField": "#CompanyPostCode",
+    "TimeAtCurrentEmployer": {
+      "YearsTextField": "#TimeAtCurrentEmployerYears",
+      "MonthsTextField": "#TimeAtCurrentEmployerMonths"
+    },
+    "NextButton": "input[value='Next']"
+  },
+
+  "IncomeInformationPage": {
+    "Url": "income-expense-details/income-information/",
+    "WagesTextField": "#YourNetIncomeFromWages_Amount",
+    "WagesFrequencyDropDownList": "YourNetIncomeFromWages_Frequency",
+    "GovernmentPaymentsTextField": "#YourIncomeFromGovernmentPayments_Amount",
+    "GovernmentPaymentDropDownList": "YourIncomeFromGovernmentPayments_Frequency",
+    "YourIncomeFromOtherSourcesTextField": "#YourIncomeFromOtherSources_Amount",
+    "YourIncomeFromOtherSourceDropDownList": "YourIncomeFromOtherSources_Frequency",
+    "NextButton": "input[name='ContinueToNext']"
+  },
+
+  "LivingExpensesPage": {
+    "Url": "income-expense-details/living-expenses/",
+    "DependentChildrenDropDownList": "DependentChildren",
+    "DoYouRunAVehicleDropDownList": "DoYouRunAVehicle",
+    "WaterRatesTextField": "#WaterRates_Amount",
+    "WaterFrequencyDropDownList": "WaterRates_Frequency",
+    "UtilitiesTextField": "#Utilities_Amount",
+    "UtilitiesFrequencyDropDownList": "Utilities_Frequency",
+    "PhoneAndInternetTextField": "#PhoneAndInternet_Amount",
+    "PhoneAndInternetDropDownList": "PhoneAndInternet_Frequency",
+    "GroceriesTextField": "#Groceries_Amount",
+    "GroceriesFrequencyDropDownList": "Groceries_Frequency",
+    "MedicalAndPharmaceuticalTextField": "#MedicalAndPharmaceutical_Amount",
+    "MedicalAndPharmaceuticalFrequencyDropDownList": "MedicalAndPharmaceutical_Frequency",
+    "OtherExpensesTexField": "#OtherExpenses_Amount",
+    "OtherExpensesDropDownList": "OtherExpenses_Frequency",
+    "NextButton": "input[name='ContinueToNext']"
+  },
+
+  "OtherExpensesPage": {
+    "Url": "/income-expense-details/other-expenses/",
+    "DoYouHaveAnyCreditCardsOrStoreCards": {
+      "YesRadioButton": "label[for='radioId16']",
+      "NoRadioButton": "label[for='radioId17']"
+    },
+    "DoYouHaveAnyLoans": {
+      "YesRadioButton": "label[for='radioId18']",
+      "NoRadioButton": "label[for='radioId19']"
+    },
+    "DoYouForeseeYourFinancialSituation": {
+      "YesRadioButton": "label[for='radioId20']",
+      "NoRadioButton": "label[for='radioId21']"
+    },
+    "NextButton": "input[value='Next']"
+  },
+
+  "Part2CallMePage": {
+    "Url": "online-application/part-2-call-me/",
+    "ContinueNowButton": "a[href*='referee-details']"
+  },
+
+  "RefereeDetailsPage": {
+    "Url": "/online-application/referee-details/",
+    "FirstReference": {
+      "DoYouHaveAnyOfTheirDetailsNow": {
+        "YesRadioButton": "#FirstReferenceHaveDetails+label",
+        "NoRadioButton": "#FirstReferenceHaveDetails-no+label"
+      },
+      "FirstNameTextField": "#FirstReferenceFirstName",
+      "SurnameTextField": "#FirstReferenceSurname",
+      "TheirRelationshipToYouTextField": "#FirstReferenceRelationshipToYou",
+      "PhoneCodeTextField": "#FirstReferencePhoneAreaCode",
+      "PhoneNumberTextField": "#FirstReferencePhoneNumber",
+      "MobileNumberTextField": "#FirstReferenceMobile",
+      "UnitNoTextField": "#FirstReferenceUnitNo",
+      "StreetNoTextField": "#FirstReferenceHouseNo",
+      "StreetNameTextField": "#FirstReferenceStreetName",
+      "StreetTypeDropDownList": "FirstReferenceStreetType",
+      "SuburbTextField": "#FirstReferenceSuburb",
+      "SuburbSelectedValue": ".easy-autocomplete-container ul li:nth-of-type(1)",
+      "StateDropDownList": "FirstReferenceState",
+      "PostCodeTextField": "#FirstReferencePostCode"
+    },
+    "SecondReference": {
+      "DoYouHaveAnyOfTheirDetailsNow": {
+        "YesRadioButton": "#SecondReferenceHaveDetails+label",
+        "NoRadioButton": "#SecondReferenceHaveDetails-no+label"
+      }
+    },
+    "ThirdReference": {
+      "DoYouHaveAnyOfTheirDetailsNow": {
+        "YesRadioButton": "#ThirdReferenceHaveDetails+label",
+        "NoRadioButton": "#ThirdReferenceHaveDetails-no+label"
+      }
+    },
+    "NextButton": "input[value='Next']"
+  },
+
+  "ApplyOnlineSubmitPage": {
+    "Url": "online-application/submit/",
+    "AcknowledgeCheckBox": "label[for='Agree']",
+    "SubmitButton": "input[value='SUBMIT']"
+  },
+
+  "ApplyOnlineThankYouPage": {
+    "Url": "/online-application/thank-you-contact-support/"
+  },
+
+  "CategoryLandingPage": {
+    "Url": "/phones-42af7fbf/",
+    "HeaderTitle": "h1",
+    "PageTitle": "Phones | rr-uat.s60.com.au - NOT FOR COMMERCIAL USE",
+    "SubHeaderTitle": ".title-1",
+    "Product": ".inner-product-tile .product-tile-title",
+    "PanelProduct": ".item-list li",
+    "CompareCheckBox": ".btn-compare.product-compare",
+    "ItemTitle": ".product-tile-title>a",
+    "WishListIcon": ".btn-wishlist.product-wishlist"
+  },
+
+  "CategoryListingPage": {
+    "Url": "/phones-42af7fbf/unlocked-mobile-phones",
+    "HeaderTitle": "h1",
+    "ListItems": ".product-listing li:nth-of-type(1)",
+    "FirstItemName": ".product-listing li:nth-of-type(1) .product-tile .product-tile-title>a",
+    "FirstItemPanel": ".product-listing li:nth-of-type(1)",
+    "RefineSearchPanel": ".facetForm",
+    "FilterPanel": ".product-listing-feature.clearfix",
+    "AddCartButton": ".btn-add-cart",
+    "WishListButton": ".user-wishlist>a",
+    "CartIconButton": ".mini-cart-display",
+    "InStockLink": ".icon-stock-in",
+    "BrandNamesLabel": ".search-box.product-facetlist>h3"
+  },
+
+  "ProductDetailsPage": {
+    "Url": "/phones-42af7fbf/unlocked-mobile-phones/iphone7128gbrose-apple-iphone-7-128gb-rose-gold-",
+    "ProductName": ".product-name",
+    "PostcodeTextField": "#txt-stock",
+    "RentalTermsPanel": ".product-rental-term.clearfix",
+    "DescriptionPanel": ".col-right-inner",
+    "ItemPrice": ".standard-price.rent-price-value",
+    "ProductDetail": ".product-name",
+    "DeliveryButton": ".status.Grey",
+    "ClickAndCollectButton": ".collect",
+    "InStoreButton": ".status.Orange",
+    "ItemDescription": ".main-content",
+    "AddToCartButton": ".btn-add-cart",
+    "AddToWishListLink": ".product-wishlist.btn-wishlist",
+    "ContinueShoppingLink": ".product-continue-shopping>a",
+    "CompareLink": ".product-add-compare>a",
+    "CheckStockButton": "#stockCheck button",
+    "PopupTitle": ".modal-header>h2",
+    "CloseButton": ".header .icon-close",
+    "FindStoreButton": ".button.gray",
+    "ListAllStoresLink": ".btn-link",
+    "StoreLinks": ".icon-instore",
+    "LocationTextField": "#txt-stock",
+    "DeliveryPopUpTitle": ".product-tile-infomation>h2",
+    "DeliveryPopUpItemName": ".product-name",
+    "DeliveryPopUpImage": ".image",
+    "DeliveryIconLink": ".icon-service-delivery",
+    "PopUpCloseButton": ".btn-close",
+    "ClickAndCollectPopUpIcon": ".icon-collect",
+    "TermsAndConditionLink": ".min-upgrade p>a",
+    "TermsAndConditionPopUpHeader": ".static-page-inner>h1",
+    "RemoveLink": ".btn-wishlist.product-wishlist.active span:nth-of-type(2)",
+    "WishListRemovePopUp": ".confirm",
+    "DeliveryAndInstallationLink": ".tab-delivery>a",
+    "DeliveryTabContent": ".product-feature-section>div>div>div>div",
+    "RemoveAndDisposalFeeLabel": ".product-feature-section>div>div>div>div>div:nth-of-type(2)>h3:nth-of-type(3)"
+  },
+
+  "MiniCartPage": {
+    "ItemsMessageLabel": ".mini-cart-header-content",
+    "SubTotalLabel": ".mini-cart-bottom-content",
+    "ItemDescriptionPanel": ".mini-cart-link",
+    "MiniCartContent": ".mini-cart-header-content"
+  },
+
+  "ShoppingCartPage": {
+    "Url": "/shopping-cart",
+    "CartButton": ".mini-cart-display",
+    "ViewCartButton": ".button.green",
+    "RentCartTab": ".active",
+    "ProductName": ".cart-content>h3>a",
+    "GoToBuyCartTab": ".buycart>a",
+    "ProductPrice": ".cart-item-RRW_CPVRVIVE>div:nth-of-type(2)>div:nth-of-type(2)>div",
+    "Total": "#buy-cart-summary>div:nth-of-type(2)>div:nth-of-type(3)>table>tbody>tr>td:nth-of-type(2)",
+    "CheckoutButton": "#buy-cart-summary>a",
+    "ContinueShoppingButton": ".summary-continue",
+    "BuyCartSummary": ".summary-outline",
+    "RemoveIconList": "icon-circle-close",
+    "CloseButton": ".buy-outline .icon-circle-close",
+    "RemoveItemPopUp": ".confirm",
+    "RentCartCloseButton": ".rent-outline .icon-circle-closeAAAA",
+    "SelectStoreButton": "#buy-cart-options .button.black.select-store",
+    "ContinueShopping": ".checkout-type>span>a",
+    "ChangeLocationLink": "#buy-cart-options div:nth-of-type(3) div p a",
+    "PostCodeTextField": "#buy-cart-options div:nth-of-type(3) .suburb-change .easy-autocomplete input",
+    "SaveButton": "#buy-cart-options div:nth-of-type(3) .suburb-change .buttons a:nth-of-type(1)",
+    "SummaryTitles": ".title",
+    "DeliveryDropDownList": "buy-delivery",
+    "InstallationDropDownList": "#RRW_TVQA75Q9F-installation-selectized",
+    "InstallationDropDownListValue": "#RRW_TVQA75Q9F-installation",
+    "SummaryInstallationItem": ".summary-sub>table>tbody>tr:nth-of-type(3)>td:nth-of-type(1)",
+    "SummaryInstallationItemPrice": ".summary-sub>table>tbody>tr:nth-of-type(3)>td:nth-of-type(2)",
+    "StoreLocatorPopUp": {
+      "ShowAllStoresButton": ".allstores",
+      "PickUpAtThisStoreLinkList": ".set-store"
+    }
+  },
+
+  "CheckoutPage": {
+    "Url": "/checkout/",
+    "ActiveTabs": {
+      "Step1": ".step-1.active",
+      "Step2": ".step-2.active",
+      "Step3": ".step-3.active",
+      "Step4": ".step-4.active"
+    },
+    "ContactDetails": {
+      "FirstNameTextField": "#FirstName",
+      "LastNameTextField": "#LastName",
+      "EmailTextField": "#Email",
+      "PhoneNumberTextField": "#PhoneNumber",
+      "DeliveryOrPickUpOption": "checkout-contact-detail .checkout-form div:nth-of-type(4) .field-item input:nth-of-type(2)",
+      "NextButton": "#checkout-contact-detail .button-outline input",
+      "ContactDetailsEditButton": ".checkout-step>li:nth-of-type(1)>div>a:nth-of-type(1)"
+    },
+    "BillingDetails": {
+      "BillingDetailsHeaderTitle": ".step-2 .step-heading",
+      "BillingAddressTextField": "#checkout-billing-address>div>div:nth-of-type(1)>div:nth-of-type(1)>input",
+      "BillingCityTextField": "#checkout-billing-address>div:nth-of-type(1)>div:nth-of-type(2)>div:nth-of-type(1)>div>input",
+      "BillingRegionOrStateDropDownList": "State",
+      "BillingStateTextField": "#checkout-billing-address>div:nth-of-type(1)>div:nth-of-type(3)>div:nth-of-type(1)>select:nth-of-type(2)>option",
+      "BillingPostCodeTextField": "#checkout-billing-address>div:nth-of-type(1)>div:nth-of-type(4)>div:nth-of-type(1)>input",
+      "BillingDetailsEditButton": ".step-2 .step-heading>a",
+      "BillingNextButton": ".checkout-step>li:nth-of-type(2)>div:nth-of-type(2)>form>div:nth-of-type(2)>input"
+    },
+    "ShippingDetails": {
+      "ShippingDetailsHeaderTitle": ".step-3 .step-heading",
+      "ShippingDetailsAddressTextField": "#checkout-shipping-address>div>div:nth-of-type(1)>div>input",
+      "ShippingCityTextField": "#shipping-city",
+      "ShippingStateDropDown": ".State",
+      "ShippingPostCodeTextField": ".checkout-primary>ul>li:nth-of-type(3)>div:nth-of-type(2)>form>div:nth-of-type(1)>div:nth-of-type(4)>div>input",
+      "ShippingNextButton": "#checkout-contact-detail>div:nth-of-type(2)>input",
+      "ShippingPhoneNumberTextField": "#checkout-shipping-address>div>div:nth-of-type(5)>div>input"
+    },
+    "PaymentDetails": {
+      "ConfirmPaymentButton": ".button.green",
+      "PaymentOptionVisaRadioButton": "#checkout-payment>div:nth-of-type(2)>ul>li:nth-of-type(1)>div",
+      "PaymentOptionMasterRadioButton": "#radio-master",
+      "PaymentDetailsHeaderTitle": ".step-4 .step-heading",
+      "PaymentMethodsRadioButton": ".field.payment-item.add-new",
+      "CardHolderNameTextField": "#PaymentMethod_CreditCardName",
+      "CardNumberTextField": "#PaymentMethod_CreditCardNumber",
+      "ExpiryDateTextField": "#PaymentMethod_ExpirationMonth",
+      "ExpiryYearTextField": "#PaymentMethod_ExpirationYear",
+      "SecurityCodeTextField": "#PaymentMethod_CreditCardSecurityCode",
+      "PaymentNext": "#checkout-payment .button-outline input",
+      "PaymentEdit": ".step-4 .step-heading>a"
+    },
+    "CheckOutPageHeader": ".checkout-type"
+  },
+
+  "CheckoutSummaryPage": {
+    "Url": "/checkout/summary",
+    "SummaryHeaderTitle": ".top-heading>h2",
+    "ContactDetailsSection": ".step-1",
+    "BillingDetailsSection": ".step-2",
+    "ShippingDetailsSection": ".step-3",
+    "PaymentDetailSection": ".step-4",
+    "SaveButton": "#btn-save-card",
+    "EditButton": ".checkout-step li .step-heading a",
+    "ConfirmPaymentButton": ".checkout-group-btn input:nth-of-type(2)",
+    "SubmitLabel": ".thanks-checkout-left"
+  },
+
+  "ProfilePage": {
+    "Url": "/my-pages/profile/",
+    "FirstNameLabel": "#PersonalDetails .profile-item:nth-of-type(2) .field-value",
+    "LastNameLabel": "#PersonalDetails .profile-item:nth-of-type(3) .field-value",
+    "EmailAddressLabel": "#PersonalDetails .profile-item:nth-of-type(5) .field-value",
+    "MobileNumberLabel": "#PersonalDetails .profile-item:nth-of-type(7) .field-value",
+    "LeftNavigation": ".profile-secondary",
+    "HideButton": ".close>span",
+    "EditButton": ".edit>span",
+    "FirstNameTextField": ".firstname",
+    "LastNameTextField": ".lastname",
+    "MobileNumberTextField": ".mobile.mobile_phone.number",
+    "SaveButton": ".save"
+  },
+
+  "ChangePasswordPage": {
+    "Url": "/my-pages/change-password/",
+    "HeaderTitle": "h1",
+    "OldPasswordTextField": "#OldPassword",
+    "NewPasswordTextField": "#NewPassword",
+    "PasswordConfirmField": "#passwordConfirm",
+    "SaveButton": "#ChangePasswordForm input[value='Save']"
+  },
+
+  "ForgotYourPasswordPage": {
+    "Url": "/my-pages/reset-password/",
+    "HeaderTitle": "h1",
+    "EmailTextField": "#Email",
+    "SendButton": "#ForgotPW-step1 input[value='Send']"
+  },
+
+  "CompareWidgetsPage": {
+    "Url": "/compare-product/?returnUrl=%2Fphones-42af7fbf%2F",
+    "PanelTitle": ".title",
+    "CompareButton": ".button.black.compare-now",
+    "ClearAllButton": ".button.black.clear-compare",
+    "ComparePageHeaderTitle": ".compare-top>h1",
+    "RemoveAllButton": ".button.black.small.btn-remmove",
+    "ProductsOnComparePage": ".product-tile-title"
+  },
+
+  "OffersAndPromotionsPage": {
+    "Url": "/offers-promotions/",
+    "PromotionTile": ".list-item.clearfix li",
+    "OfferBanner": ".top-promotion-expand .clearfix li a img",
+    "Redemptioncode": ".wrap-item div input",
+    "PriceRangeHeaderTitle": ".search-box.search-box-buy>h3"
+  },
+
+  "OfferDetailsPage": {
+    "Url": "/offers-promotions/",
+    "RedeemOfferButton": ".list-button.clearfix>li:nth-of-type(1)",
+    "TermsAndConditionButton": ".button.black.btn-terms",
+    "FilterPanel": ".refinement-outline"
+  },
+
+  "ClaimAndAnOfferPage": {
+    "Url": "/redemption/",
+    "RedemptionCode": "input[name='RedemptionCode']",
+    "ClaimAnOfferHeaderTitle": "h1",
+    "ProceedToNextStep": "#btnSubmit"
+  },
+
+  "ClaimSubmitPage": {
+    "Url": "/redemption/Step2/",
+    "ClaimFormPageTitle": ".step-2 .block-redemption h3",
+    "StoreDropDownList": "Store",
+    "FirstNameTextField": "#Redemption-step2 input[name='FirstName']",
+    "LastNameTextField": "#Redemption-step2 input[name='Surname']",
+    "StreetNameTextField": "#Redemption-step2 input[name='StreetName']",
+    "SuburbTextField": "#Redemption-step2 input[name='Suburb']",
+    "PhoneNumberTextField": "#Redemption-step2 input[name='Mobile']",
+    "EmailTextField": "#Redemption-step2 input[name='Email']",
+    "ConfirmEmailTextField": "#Redemption-step2 input[name='ConfirmEmail']",
+    "RetailTextField": "#Redemption-step2 input[name='RetailValue']",
+    "AccountNumberTextField": "#Redemption-step2 input[name='AccountNumber']",
+    "TransactionDateTextField": "#TransactionDate",
+    "AccountNameTextField": "#Redemption-step2 input[name='BankAccountName']",
+    "BSBNumberTextField": "#Redemption-step2 input[name='BSBNumber']",
+    "BankNameTextField": "#Redemption-step2 input[name='BankName']",
+    "CustomerAccountNumberTextField": "#Redemption-step2 input[name='BankAccountNumber']",
+    "AcceptTermsAndConditionsCheckBox": "label[for='checkbox-id']",
+    "IWishToBeExcludedCheckBox": "label[for='checkbox-id1']",
+    "SuburbValueList": ".easy-autocomplete-container ul li:nth-of-type(1)",
+    "SubmitButton": "#btnSubmit"
+  },
+
+  "SubmitForgotYourPasswordPage": {
+    "Url": "/my-pages/reset-password/ForgotPassword/"
+  },
+
+  "StoreLocatorPage": {
+    "Url": "/store-locator/",
+    "HeaderTitle": "h1",
+    "UseMyLocationButton": ".currentLocation",
+    "ShowAllStoresButton": ".allstores",
+    "SearchTextField": "#store-locator",
+    "ViewAllStoresLink": ".store-locator>div>div:nth-of-type(5)>div>ul>li",
+    "ShowMoreButton": ".showall",
+    "MapIcon": "#map",
+    "SearchButton": "#storeCheck>button"
+  },
+
+  "NavigationMenu": {
+    "TopLevelNavigationMenuItemsList": ".item-level-1>a",
+    "SubLevelNavigationMenuItemsList": ".level-2-list>li>a",
+    "BottomLevelNavigationMenuItemsList": ".level-3-list>li>a"
+  },
+
+  "WishListPage": {
+    "WishListPageHeaderTitle": ".banner-info>h1"
+  },
+
+  "SearchOptionPage": {
+    "SearchResultTitle": ".text-search",
+    "SearchResultList": ".inner-product-tile.clearfix",
+    "SearchResultPannel": ".product-listing.list-view.clearfix",
+    "FilterPannel": ".refinement-outline"
+  },
+
+  "CataloguePage": {
+    "Url": "/catalogue/",
+    "HeaderTitle": "h1",
+    "CatelogueFrame": ".lzCatalogueIFrame",
+    "SubHeaderTitle": ".area-left>h2",
+    "CurrentLocationLink": ".icon-toolbar.toolbar-location>span",
+    "SearchCatalogueTextField": ".header-element>input"
+  },
+  "CareersPage": {
+    "Url": "/career/",
+    "HeaderTitle": "h1",
+    "CompanyLabel": ".expr3ss-jobs-widget-division-header",
+    "CareersElements": ".expr3ss-jobs-widget-job"
+  },
+
+  "BrandListPage": {
+    "Url": "/brands/",
+    "Headertitle": "h1",
+    "BrandsList": ".container .product-listing-outline>div>ul>li"
+  },
+
+  "ContactUsPage": {
+    "Url": "/contact-us/",
+    "HeaderTitle": ".Form__Title",
+    "FullNameTextField": ".fullname",
+    "EmailTextField": ".email",
+    "MobileTextField": ".mobile",
+    "DepartmentDropDownList": ".department",
+    "AreYouAnExistingCustomerDropDownList": ".exist-customer ",
+    "FeedbackTextField": ".enquiries",
+    "SubmitButton": ".FormSubmitButton"
+  }
 }
